@@ -53,12 +53,10 @@
 
 ## 🧑‍💻 **Education**
 - **B.Tech in Computer Engineering**  
-  *AGPIT Solapur, Maharashtra* | November 2022 – May 2025  
-  **CGPA**: 6.5/10 (Final Year)
-
+  *AGPIT Solapur, Maharashtra* | November 2022 – May 2025
+  
 - **Diploma in Computer Engineering**  
   *SPM Solapur, Maharashtra* | August 2019 – July 2022  
-  **Percentage**: 84.97%
 
 ---
 
