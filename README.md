@@ -14,11 +14,51 @@ Passionate about continuous learning, I strive to engineer **seamless user exper
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Java, Python, Dart, SQL, C, C++, JavaScript, C#
-- **Frameworks & Tools**: Android SDK, Android Studio, Firebase, Unity 3D, Git, GitHub, Linux, Windows
-- **Libraries & Technologies**: OkHttp, RESTful API, ZXing, Material Design, MVVM, BLoC
-- **Development Methodologies**: Agile, Scrum, Test-Driven Development (TDD), SDLC
-- **Database Management**: SQL, Firebase Firestore
+
+### **Programming Languages**
+<div>
+    <img src="https://img.icons8.com/ios-filled/50/000000/java.png" width="40" alt="Java"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/python.png" width="40" alt="Python"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/dart.png" width="40" alt="Dart"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" alt="SQL"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" width="40" alt="C"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus.png" width="40" alt="C++"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" width="40" alt="JavaScript"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp.png" width="40" alt="C#"/>
+</div>
+
+### **Frameworks & Tools**
+<div>
+    <img src="https://img.icons8.com/ios-filled/50/000000/android.png" width="40" alt="Android"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" width="40" alt="Firebase"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" width="40" alt="Unity"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/git.png" width="40" alt="Git"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" width="40" alt="Linux"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/windows-10.png" width="40" alt="Windows"/>
+</div>
+
+### **Libraries & Technologies**
+<div>
+    <img src="https://img.icons8.com/ios-filled/50/000000/ok.png" width="40" alt="OkHttp"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" width="40" alt="RESTful API"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/barcode.png" width="40" alt="ZXing"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/material-design.png" width="40" alt="Material Design"/>
+</div>
+
+### **Development Methodologies**
+<div>
+    <img src="https://img.icons8.com/ios-filled/50/000000/agile.png" width="40" alt="Agile"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/scrum.png" width="40" alt="Scrum"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/test-passed.png" width="40" alt="TDD"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/sd-card.png" width="40" alt="SDLC"/>
+</div>
+
+### **Database Management**
+<div>
+    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" alt="SQL Database"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" width="40" alt="Firebase Firestore"/>
+</div>
 
 ---
 
@@ -70,6 +110,8 @@ Passionate about continuous learning, I strive to engineer **seamless user exper
 
 ## 🔗 Contact Me
 - **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
+- **GitHub**: [Nikhileshwar Adam's GitHub](https://github.com/IJNikhil)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
