@@ -15,21 +15,21 @@
 ---
 
 ### **Frameworks & Tools**  
-| ![Android](https://img.icons8.com/color/48/000000/android.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![GitHub](https://img.icons8.com/color/48/000000/github.png) |
+| ![Android](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-android-operating-system-flat-flat-juicy-fish.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Android Studio](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-android-studio-development-environment-flat-flat-juicy-fish.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![GitHub](https://img.icons8.com/color/48/000000/github.png) |
 |----------------------------------------------------------|---------------------------------------------------|---------------------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|
 | **Android** - Mobile OS Development | **Firebase** - Real-time DB, Cloud Storage | **Unity** - Game and App Development | **Android Studio** - IDE for Android Apps | **Git** - Version Control | **GitHub** - Hosting and Collaboration |
 
 ---
 
 ### **Libraries & Technologies**  
-| ![OkHttp](https://img.icons8.com/color/48/000000/okhttp.png) | ![RESTful API](https://img.icons8.com/color/48/000000/api.png) | ![ZXing](https://img.icons8.com/color/48/000000/barcode.png) | ![Material Design](https://img.icons8.com/color/48/000000/material-design.png) | ![MVVM](https://img.icons8.com/color/48/000000/mvvm.png) | ![BLoC](https://img.icons8.com/color/48/000000/bloc.png) |
+| ![OkHttp](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-ok-http-api-flat-flat-juicy-fish.png) | ![RESTful API](https://img.icons8.com/color/48/000000/api.png) | ![ZXing](https://img.icons8.com/color/48/000000/barcode.png) | ![Material Design](https://img.icons8.com/color/48/000000/material-design.png) | ![MVVM](https://img.icons8.com/color/48/000000/mvvm.png) | ![BLoC](https://img.icons8.com/color/48/000000/bloc.png) |
 |--------------------------------------------------------|---------------------------------------------------|------------------------------------------|-----------------------------------------------|----------------------------------------|---------------------------------------|
 | **OkHttp** - HTTP Client | **RESTful API** - Web Services Integration | **ZXing** - Barcode Scanning | **Material Design** - UI/UX Design | **MVVM** - Android Architecture Pattern | **BLoC** - State Management in Flutter |
 
 ---
 
 ### **Development Methodologies**  
-| ![Agile](https://img.icons8.com/color/48/000000/trello.png) | ![Scrum](https://img.icons8.com/color/48/000000/scrum.png) | ![TDD](https://img.icons8.com/color/48/000000/continuous-integration.png) |
+| ![Agile](https://img.icons8.com/color/48/000000/trello.png) | ![Scrum](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-scrum-methodology-flat-flat-juicy-fish.png) | ![TDD](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-test-driven-development-tdd-flat-flat-juicy-fish.png) |
 |--------------------------------------------------|--------------------------------------------------|------------------------------------------------|
 | **Agile** - Software Development Methodology | **Scrum** - Agile Framework | **TDD** - Test Driven Development |
 
