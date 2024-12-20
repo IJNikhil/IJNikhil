@@ -19,7 +19,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
   <tr>
     <td><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50" height="50" /></td>
     <td><img src="https://img.icons8.com/fluency/50/000000/python.png" width="50" height="50" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" style="width: 50px; height: auto;" /></td>
   </tr>
   <tr>
     <td>Java</td>
@@ -30,7 +30,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width: 50px; height: auto;" /></td>
     <td><img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" width="50" height="50" /></td>
     <td><img src="https://img.icons8.com/fluency/50/000000/javascript.png" width="50" height="50" /></td>
   </tr>
@@ -88,7 +88,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white" width="50" height="50" /></td>
+    <td><img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white" style="width: 50px; height: auto;" /></td>
     <td><img src="https://img.shields.io/badge/MVVM-FF5722?style=for-the-badge&logo=java&logoColor=white" width="50" height="50" /></td>
     <td><img src="https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white" width="50" height="50" /></td>
   </tr>
@@ -118,8 +118,8 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 ### Database Management
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" /></td>
-    <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width: 50px; height: auto;" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" style="width: 50px; height: auto;" /></td>
   </tr>
   <tr>
     <td>SQL</td>
@@ -135,14 +135,5 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**, A-1 Launchpad National Challenge  
   *A-1 Fence Products Company Pvt. Ltd.* – Developed a hardware-software product addressing real-world challenges.
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/firebase.png" alt="Firebase Firestore" style="width: 80px; height: 80px;" />
-    <p><strong>Firebase Firestore</strong></p>
-  </div>
 
 - **Google Cloud Certification** – Obtained certification in Cloud Computing fundamentals and practical applications.
-
----
-
-### Contact  
-- 📧 **Email**: nikhileshwaradam1234@gmail.com
