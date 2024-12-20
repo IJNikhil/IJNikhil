@@ -1,14 +1,13 @@
 # Nikhileshwar Adam - Software Engineer
 
-![Profile Picture](https://via.placeholder.com/150) <!-- Optional profile image -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue)](https://www.linkedin.com/in/nikhileshwar-adam/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Nikhileshwar%20Adam-darkgrey)](https://github.com/IJNikhil)
+[CloudSkillsBoost Profile](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
 
 ---
 
 ## 📜 About Me
-Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Strong experience in delivering high-performance solutions for mobile applications. Passionate about working in **Agile** environments and continuously learning cutting-edge technologies to tackle complex challenges.
+Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. I focus on creating high-performance solutions for mobile applications and enjoy collaborating in **Agile environments** to build innovative products.  
+Passionate about continuous learning, I strive to engineer **seamless user experiences** and take on complex challenges using emerging technologies.
 
 > **"Engineering solutions that create seamless user experiences."**
 
@@ -37,12 +36,12 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 📂 Projects
 - **AGPIT Guide – Campus Navigation App**  
   Developed a real-time campus navigation app that helps users find optimized routes with a 3D interactive map.
-  
+
 - [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
-  AI-powered chatbot that delivers real-time conversational experiences for seamless user interactions.
+  AI-powered chatbot providing real-time conversational experiences for seamless user interactions.
 
 - [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA)  
-  Mobile app that tracks real-time attendance and allows secure data storage in Firebase.
+  Mobile app that tracks real-time attendance with secure data storage in Firebase.
 
 - [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop)  
   Messaging platform that synchronizes chat data instantly with Firebase for real-time communication.
