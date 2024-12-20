@@ -1,61 +1,149 @@
 # Nikhileshwar Adam - Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhileshwar-adam/)
-[![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud_Skills-79a13a9b-FF6F61?style=flat-square&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue)](https://www.linkedin.com/in/nikhileshwar-adam/)  
+[Google Cloud Skills](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
+
+---
+
+## 📜 About Me
+Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Strong experience in delivering high-performance solutions for mobile applications. Passionate about working in **Agile** environments and continuously learning cutting-edge technologies to tackle complex challenges.
+
+> **"Engineering solutions that create seamless user experiences."**
 
 ---
 
 ## 🛠️ **Technical Skills**
 
-### **Programming Languages**  
-| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Dart](https://img.icons8.com/color/48/000000/dart.png) | ![SQL](https://img.icons8.com/color/48/000000/sql.png) | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
-|-----------------------------------------------------------|----------------------------------------------------|-----------------------------------------------|--------------------------------------------|-----------------------------------------------|---------------------------------------------------------|
-| **Java** - Object-oriented programming, Android Dev. | **Python** - Data Science, Web Dev., Scripting | **Dart** - Used in Flutter for Mobile Apps | **SQL** - Structured Query Language | **C++** - System Programming, Gaming | **JavaScript** - Web Development, Node.js |
+### **Programming Languages**
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+    <p><strong>Java</strong></p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+    <p><strong>Python</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
+    <p><strong>Dart</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
+    <p><strong>SQL</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+    <p><strong>C++</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+    <p><strong>JavaScript</strong></p>
+  </div>
+</div>
 
 ---
 
-### **Frameworks & Tools**  
-| ![Android](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-android-operating-system-flat-flat-juicy-fish.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Android Studio](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-android-studio-development-environment-flat-flat-juicy-fish.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![GitHub](https://img.icons8.com/color/48/000000/github.png) |
-|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|
-| **Android** - Mobile OS Development | **Firebase** - Real-time DB, Cloud Storage | **Unity** - Game and App Development | **Android Studio** - IDE for Android Apps | **Git** - Version Control | **GitHub** - Hosting and Collaboration |
+### **Frameworks & Tools**
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/ios/50/000000/android.png" alt="Android" />
+    <p><strong>Android</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" />
+    <p><strong>Firebase</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/50/000000/unity.png" alt="Unity" />
+    <p><strong>Unity</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/50/000000/android-studio.png" alt="Android Studio" />
+    <p><strong>Android Studio</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
+    <p><strong>Git</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" />
+    <p><strong>GitHub</strong></p>
+  </div>
+</div>
 
 ---
 
-### **Libraries & Technologies**  
-| ![OkHttp](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-ok-http-api-flat-flat-juicy-fish.png) | ![RESTful API](https://img.icons8.com/color/48/000000/api.png) | ![ZXing](https://img.icons8.com/color/48/000000/barcode.png) | ![Material Design](https://img.icons8.com/color/48/000000/material-design.png) | ![MVVM](https://img.icons8.com/color/48/000000/mvvm.png) | ![BLoC](https://img.icons8.com/color/48/000000/bloc.png) |
-|--------------------------------------------------------|---------------------------------------------------|------------------------------------------|-----------------------------------------------|----------------------------------------|---------------------------------------|
-| **OkHttp** - HTTP Client | **RESTful API** - Web Services Integration | **ZXing** - Barcode Scanning | **Material Design** - UI/UX Design | **MVVM** - Android Architecture Pattern | **BLoC** - State Management in Flutter |
+### **Libraries & Technologies**
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/50/000000/trello.png" alt="Agile" />
+    <p><strong>Agile</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/ios/50/000000/scrum.png" alt="Scrum" />
+    <p><strong>Scrum</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-test-driven-development-tdd-flat-flat-juicy-fish.png" alt="TDD" />
+    <p><strong>TDD</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-ok-http-api-flat-flat-juicy-fish.png" alt="OkHttp" />
+    <p><strong>OkHttp</strong></p>
+  </div>
+</div>
 
 ---
 
-### **Development Methodologies**  
-| ![Agile](https://img.icons8.com/color/48/000000/trello.png) | ![Scrum](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-scrum-methodology-flat-flat-juicy-fish.png) | ![TDD](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-test-driven-development-tdd-flat-flat-juicy-fish.png) |
-|--------------------------------------------------|--------------------------------------------------|------------------------------------------------|
-| **Agile** - Software Development Methodology | **Scrum** - Agile Framework | **TDD** - Test Driven Development |
+### **Development Methodologies**
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-material-design-flat-flat-juicy-fish.png" alt="Material Design" />
+    <p><strong>Material Design</strong></p>
+  </div>
 
----
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/50/000000/mvvm.png" alt="MVVM" />
+    <p><strong>MVVM</strong></p>
+  </div>
 
-### **Database Management**  
-| ![SQL](https://img.icons8.com/color/48/000000/sql.png) | ![Firebase Firestore](https://img.icons8.com/color/48/000000/firebase.png) |
-|----------------------------------------------------|-----------------------------------------------------------|
-| **SQL** - Relational Databases | **Firebase Firestore** - NoSQL Database |
-
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/50/000000/bloc.png" alt="BLoC" />
+    <p><strong>BLoC</strong></p>
+  </div>
+</div>
 
 ---
 
 ## 🧑‍💻 **Education**
 - **B.Tech in Computer Engineering**  
-  *AGPIT Solapur, Maharashtra* | November 2022 – May 2025
-  
+  *AGPIT Solapur, Maharashtra* | November 2022 – May 2025  
+  **CGPA**: 6.5/10 (Final Year)
+
 - **Diploma in Computer Engineering**  
   *SPM Solapur, Maharashtra* | August 2019 – July 2022  
+  **Percentage**: 84.97%
 
 ---
 
 ## 📂 **Projects**
 - **AGPIT Guide – Campus Navigation App**  
   Developed a real-time campus navigation app that helps users find optimized routes with a 3D interactive map.
-
+  
 - [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
   AI-powered chatbot that delivers real-time conversational experiences for seamless user interactions.
 
@@ -79,10 +167,12 @@
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_iit-roorkee-e-summit-productathonai-activity-7003351672940711936-8muG)**, IIT Roorkee E-Summit 2024 ProductathonAI Hackathon  
   *IIT Roorkee Campus* – Created a Machine Learning-based software for price prediction in market forecasting.
 
-- **[Participant](https://www.linkedin.com/posts/nikhileshwar-adam_android-development-competition-wit-solutions-activity-7004104518662228992-FVqs)**, Wit Solutions Android Development Hackathon
+- **[Participant](https://www.linkedin.com/posts/nikhileshwar-adam_hackathon-data-analysis-openai-activity-7002152177535950848-NV4v)**, MLH Hackathon (OpenAI Data Analysis)  
+  *Major League Hacking* – Data analysis with OpenAI models to improve customer experience using Python.
 
-- **[Google Cloud](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)**  
-  Acquired foundational skills in Google Cloud through Cloud Skills Boost programs.
+---
 
-- **[IBM Data Science](https://www.coursera.org/account/accomplishments/certificate/8GAK6MDY8G3R)**  
-  Completed IBM's Data Science Professional Certificate on Coursera.
+## 🔗 **Contact Me**
+- **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
+- **GitHub**: [IJNikhil](https://github.com/IJNikhil)
+- **Email**: nikhileshwaradam@gmail.com
