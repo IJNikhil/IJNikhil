@@ -1,52 +1,72 @@
-# AGPIT Guide – Campus Navigation App
+# Nikhileshwar Adam - Software Engineer
 
-![AGPIT Guide Logo](https://via.placeholder.com/150)  <!-- Optional logo -->
+![Profile Picture](https://via.placeholder.com/150)  <!-- Optional logo/profile image -->
 
-## 🚀 Overview
-AGPIT Guide is a **real-time campus navigation app** developed for **AGPIT College**, designed to help students, faculty, and visitors navigate the campus efficiently. The app integrates **QR code scanning** and **real-time tracking** to offer the most optimal routes, helping users find their destination quickly and accurately.
-
-> **Note:** The app also includes a 3D interactive map and pathfinding algorithms for dynamic updates based on the user’s movement.
+## 📜 About Me
+Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in developing and scaling applications, specializing in **Android development** and **Firebase integration**. Proficient in designing and optimizing high-performance solutions to enhance user experience. Strong collaborator in **Agile** environments, with a reputation for problem-solving, clear communication, and a commitment to delivering high-quality code. Passionate about continuously learning and leveraging new technologies to tackle complex challenges and contribute to innovative projects.
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** `C#`, `Unity 3D`
-- **Frameworks & Tools:** `Android SDK`, `ZXing (QR code scanner)`
-- **APIs & Libraries:** `Google Maps API`, `Pathfinding Algorithm`
-- **Databases:** `SQLite`, `Firebase`
-- **Development Environment:** `Unity`, `Visual Studio`
+## 🛠️ Technical Skills
+- **Programming Languages**: Java, Python, Dart, SQL, C, C++, JavaScript, C#
+- **Frameworks & Tools**: Android SDK, Android Studio, Firebase, Unity 3D, Git, GitHub, Linux, Windows
+- **Libraries & Technologies**: OkHttp, RESTful API, ZXing, Material Design, MVVM, BLoC
+- **Development Methodologies**: Agile, Scrum, Test-Driven Development (TDD), SDLC
+- **Database Management**: SQL, Firebase Firestore
 
 ---
 
-## ✨ Features
-- **Real-time tracking**: The app dynamically updates the route as the user moves through the campus.
-- **QR Code Scanning**: Allows users to scan QR codes for location detection to start navigation.
-- **3D Interactive Map**: A detailed 3D map of the campus that visually guides users to their destination.
-- **Optimized Route Calculation**: Pathfinding algorithms ensure the most efficient routes.
-- **User-friendly Interface**: Material Design principles applied to deliver a clean and intuitive experience.
+## 🧑‍💻 Education
+- **B.Tech in Computer Engineering**  
+  AGPIT Solapur, Maharashtra | November 2022 – May 2025  
+  CGPA: 6.5/10 (Final Year)
+
+- **Diploma in Computer Engineering**  
+  SPM Solapur, Maharashtra | August 2019 – July 2022  
+  84.97%
 
 ---
 
-## 🖼️ Screenshots
-Here’s a preview of the AGPIT Guide in action:
+## 💼 Experience
+- **Software Engineer** | Freelance Projects  
+  *Developed mobile applications, integrated APIs, and optimized backend systems for various clients.*
 
-![Campus Map](https://via.placeholder.com/700x400)  <!-- Replace with real image -->
-*Real-time campus navigation interface.*
-
-![Route Directions](https://via.placeholder.com/700x400)  <!-- Replace with real image -->
-*Optimized route directions for students and visitors.*
+- **Internship** | XYZ Company (Include any relevant internship or work experience if applicable)  
+  *Worked on Android app development, Firebase integration, and database management.*
 
 ---
 
-## 📥 Installation & Setup
+## 📂 Projects
+- **AGPIT Guide – Campus Navigation App** | Unity 3D, C#, Android SDK  
+- **ChatBotX – AI Chatbot** | Flutter, Dart, GeminiAI API, Firebase  
+- **ETESA – Real-Time Attendance Tracking** | Java, Firebase, Android Studio  
+- **Loop – Real-Time Messaging App** | Java, Firebase, Android Studio  
 
-### Prerequisites:
-- **Unity 3D** (Latest Version)
-- **Android SDK** setup for Android development
-- **Google Maps API** key
-- **Firebase SDK** for real-time data and authentication
+> For more details and code, check my repositories on [GitHub](https://github.com/yourusername).
 
-### Steps:
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/AGPIT-Guide.git
+---
+
+## 🏆 Achievements
+- **Finalist**, StrataZeal 1.0 Case Competition (Symbiosis Centre for Management and HRD, Pune)  
+  *Recognized for innovative business solutions using Power BI.*
+  
+- **Finalist**, A-1 Launchpad National Challenge (A-1 Fence Products Company Pvt. Ltd.)  
+  *Developed a hardware-software product addressing real-world business challenges.*
+
+- **Participant**, Android Development Competition, WIT Solapur  
+  *Developed a functional Android app as part of a team under time constraints.*
+
+- **4th Place**, Product Management Championship by BookMyMentor  
+  *Secured 4th place and earned Live Project Certificate.*
+
+---
+
+## 🔗 Contact Me
+- **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
+- **GitHub**: [Nikhileshwar Adam's GitHub](https://github.com/yourusername)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## 📄 License
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
