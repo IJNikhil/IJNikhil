@@ -7,47 +7,39 @@
 
 ## 🛠️ **Technical Skills**
 
-### **Programming Languages**
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=FF5722)](https://www.java.com)  
-[![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white&labelColor=FFD54F)](https://www.python.org)  
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=009688)](https://dart.dev)  
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white&labelColor=00796B)](https://www.sql.org)  
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=283593)](https://isocpp.org)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0091EA)](https://www.javascript.com)
+### **Programming Languages**  
+| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Dart](https://img.icons8.com/color/48/000000/dart.png) | ![SQL](https://img.icons8.com/color/48/000000/sql.png) | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
+|-----------------------------------------------------------|----------------------------------------------------|-----------------------------------------------|--------------------------------------------|-----------------------------------------------|---------------------------------------------------------|
+| **Java** - Object-oriented programming, Android Dev. | **Python** - Data Science, Web Dev., Scripting | **Dart** - Used in Flutter for Mobile Apps | **SQL** - Structured Query Language | **C++** - System Programming, Gaming | **JavaScript** - Web Development, Node.js |
 
 ---
 
-### **Frameworks & Tools**
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=388E3C)](https://developer.android.com)  
-[![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=white&labelColor=FF7043)](https://firebase.google.com)  
-[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white&labelColor=00B8D4)](https://unity.com)  
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&labelColor=4CAF50)](https://developer.android.com/studio)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=212121)](https://git-scm.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=9C27B0)](https://github.com)  
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1976D2)](https://code.visualstudio.com)
+### **Frameworks & Tools**  
+| ![Android](https://img.icons8.com/color/48/000000/android.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![GitHub](https://img.icons8.com/color/48/000000/github.png) |
+|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------|------------------------------------------------|--------------------------------------------|------------------------------------------------------|
+| **Android** - Mobile OS Development | **Firebase** - Real-time DB, Cloud Storage | **Unity** - Game and App Development | **Android Studio** - IDE for Android Apps | **Git** - Version Control | **GitHub** - Hosting and Collaboration |
 
 ---
 
-### **Libraries & Technologies**
-[![OkHttp](https://img.shields.io/badge/OkHttp-4D4D4D?style=flat-square&logo=okhttp&logoColor=white&labelColor=00897B)](https://square.github.io/okhttp/)  
-[![RESTful API](https://img.shields.io/badge/RESTful_API-00B0A2?style=flat-square&logo=restapi&logoColor=white&labelColor=00C853)](https://restfulapi.net/)  
-[![ZXing](https://img.shields.io/badge/ZXing-0098DC?style=flat-square&logo=barcode&logoColor=white&labelColor=0288D1)](https://github.com/zxing/zxing)  
-[![Material Design](https://img.shields.io/badge/Material_Design-6200EE?style=flat-square&logo=material-design&logoColor=white&labelColor=9C27B0)](https://material.io)  
-[![MVVM](https://img.shields.io/badge/MVVM-FF5722?style=flat-square&logo=java&logoColor=white&labelColor=F44336)](https://www.geeksforgeeks.org/mvvm-model-view-viewmodel-architecture-pattern-in-android/)  
-[![BLoC](https://img.shields.io/badge/BLoC-0288D1?style=flat-square&logo=flutter&logoColor=white&labelColor=1976D2)](https://bloclibrary.dev)
+### **Libraries & Technologies**  
+| ![OkHttp](https://img.icons8.com/color/48/000000/okhttp.png) | ![RESTful API](https://img.icons8.com/color/48/000000/api.png) | ![ZXing](https://img.icons8.com/color/48/000000/barcode.png) | ![Material Design](https://img.icons8.com/color/48/000000/material-design.png) | ![MVVM](https://img.icons8.com/color/48/000000/mvvm.png) | ![BLoC](https://img.icons8.com/color/48/000000/bloc.png) |
+|--------------------------------------------------------|---------------------------------------------------|------------------------------------------|-----------------------------------------------|----------------------------------------|---------------------------------------|
+| **OkHttp** - HTTP Client | **RESTful API** - Web Services Integration | **ZXing** - Barcode Scanning | **Material Design** - UI/UX Design | **MVVM** - Android Architecture Pattern | **BLoC** - State Management in Flutter |
 
 ---
 
-### **Development Methodologies**
-[![Agile](https://img.shields.io/badge/Agile-00B0B9?style=flat-square&logo=trello&logoColor=white&labelColor=009688)](https://www.agilealliance.org)  
-[![Scrum](https://img.shields.io/badge/Scrum-FF9800?style=flat-square&logo=scrum&logoColor=white&labelColor=FF5722)](https://www.scrum.org)  
-[![TDD](https://img.shields.io/badge/TDD-FFD54F?style=flat-square&logo=jest&logoColor=black&labelColor=FFEB3B)](https://en.wikipedia.org/wiki/Test-driven_development)
+### **Development Methodologies**  
+| ![Agile](https://img.icons8.com/color/48/000000/trello.png) | ![Scrum](https://img.icons8.com/color/48/000000/scrum.png) | ![TDD](https://img.icons8.com/color/48/000000/continuous-integration.png) |
+|--------------------------------------------------|--------------------------------------------------|------------------------------------------------|
+| **Agile** - Software Development Methodology | **Scrum** - Agile Framework | **TDD** - Test Driven Development |
 
 ---
 
-### **Database Management**
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white&labelColor=0288D1)](https://www.sql.org)  
-[![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=flat-square&logo=firebase&logoColor=white&labelColor=FF9800)](https://firebase.google.com/docs/firestore)
+### **Database Management**  
+| ![SQL](https://img.icons8.com/color/48/000000/sql.png) | ![Firebase Firestore](https://img.icons8.com/color/48/000000/firebase.png) |
+|----------------------------------------------------|-----------------------------------------------------------|
+| **SQL** - Relational Databases | **Firebase Firestore** - NoSQL Database |
+
 
 ---
 
