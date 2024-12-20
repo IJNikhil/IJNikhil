@@ -143,20 +143,19 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 ## 🏆 Achievements & Certifications
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**, StrataZeal 1.0 Case Competition (Symbiosis Centre for Management and HRD, Pune) – Recognized for innovative business solutions using Power BI.
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**, A-1 Launchpad National Challenge (A-1 Fence Products Company Pvt. Ltd.) – Developed a hardware-software product addressing real-world challenges.
-- **Google Cloud Certification** – Cloud Computing fundamentals and practical applications.
 
 ---
 
 ## 🔧 Projects
 
-### [AGPIT Guide – Campus Navigation App](#) | Unity 3D, C#, ZXing, Android SDK (November 2024)
+### AGPIT Guide – Campus Navigation App# 
 Developed a real-time campus navigation app with QR code scanning and pathfinding features.
 
-### [ChatBotX - AI Chatbot](https://github.com/username/chatbotx) | Flutter, Dart, GeminiAI API, Firebase (April 2024)
+### [ChatBotX - AI Chatbot](https://github.com/IJNikhil/fluttergemini)
 AI-powered chatbot with real-time conversational experience and Firebase backend.
 
-### [ETESA - Real-time Attendance Tracking](https://github.com/username/etesa) | Java, Firebase, Android Studio (March 2024)
+### [ETESA - Real-time Attendance Tracking](https://github.com/IJNikhil/ETESA)
 A mobile app for real-time attendance tracking using Firebase and Material3 Design.
 
-### [Loop - Real-time Messaging](https://github.com/username/loop) | Java, Firebase, Android Studio (November 2023)
+### [Loop - Real-time Messaging](https://github.com/IJNikhil/Loop) 
 A messaging platform for instant data sync with Firebase Firestore.
