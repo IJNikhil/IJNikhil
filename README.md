@@ -1,17 +1,23 @@
-# Nikhileshwar Adam - Software Engineer
+# Nikhileshwar Adam 
+**Software Engineer | Mobile App Developer | Problem Solver**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=for-the-badge)](https://www.linkedin.com/in/nikhileshwar-adam/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Nikhileshwar%20Adam-gray?style=for-the-badge)](https://github.com/IJNikhil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=for-the-badge)](https://www.linkedin.com/in/nikhileshwar-adam/)  
+[![CloudSkillsBoost](https://img.shields.io/badge/CloudSkillsBoost-Profile-brightgreen?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
+
+**Crafting innovative software solutions.**
 
 ---
 
-## About Me
+### 🚀 **About Me**
+I am a **Software Engineer** with a passion for developing mobile applications and solving complex problems. With expertise in **Java**, **Python**, **Dart**, **SQL**, and **Firebase**, I specialize in creating high-performance mobile apps and backend integrations. I am always keen to learn new technologies and stay updated with the latest industry trends.  
+"**Engineering seamless and innovative solutions for an enhanced user experience.**"
 
-I'm a passionate Software Engineer with a knack for building **scalable, user-friendly applications**. I specialize in **Java**, **Python**, **Dart**, and **Android Development**, leveraging my skills to craft high-performance solutions.  
+---
 
-> "Enthusiastic about creating impactful experiences through innovative software development."
-
-I thrive in **Agile** environments, continuously learning and optimizing code to tackle complex challenges.
+### 🌍 **Currently Exploring**
+- **Mobile App Development** with **Android SDK**, **Flutter**, and **Firebase**.
+- **Backend Solutions** using **Java**, **Python**, and **SQL**.
+- Exploring new technologies such as **Machine Learning** and **Cloud Computing**.
 
 ---
 
