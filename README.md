@@ -15,22 +15,22 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 🛠️ **Technical Skills**
 
 ### **Programming Languages**
-| ![Java](https://img.icons8.com/fluency/50/000000/java.png) | ![Python](https://img.icons8.com/fluency/50/000000/python.png) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| ![Java](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png) | ![Python](https://img.icons8.com/fluency/50/000000/python.png) | ![Dart](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png) |
 | --- | --- | --- |
 | **Java** | **Python** | **Dart** |
 
-| ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) | ![C++](https://img.icons8.com/fluency/50/000000/c-plus-plus.png) | ![JavaScript](https://img.icons8.com/fluency/50/000000/javascript.png) |
+| ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) | ![C++](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png) | ![JavaScript](https://img.icons8.com/fluency/50/000000/javascript.png) |
 | --- | --- | --- |
 | **SQL** | **C++** | **JavaScript** |
 
 ---
 
 ### **Frameworks & Tools**
-| ![Android](https://img.icons8.com/fluency/50/000000/android.png) | ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white) | ![Unity](https://img.icons8.com/fluency/50/000000/unity.png) |
+| ![Android](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX98TKIsaJF7D4wnq7YBOuMjtYH-6D5Kgm7m7VbRek7cQIGN7TNVtJMDIbSiEG5KgcGyGpgGxEOz7u9v-WhQASrQrjvCQF8-RQ7PsZpA6djqK7RA7mXrnt6aYiac8voLef_mhP-s_TucPVEP1vvmUBjspmjA2RdrbvIqVwYXQJZ1fwPyamJIxXTrgMVmg/s1600/image1.png) | ![Firebase](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s) | ![Unity](https://img.icons8.com/fluency/50/000000/unity.png) |
 | --- | --- | --- |
 | **Android** | **Firebase** | **Unity** |
 
-| ![Git](https://img.icons8.com/fluency/50/000000/git.png) | ![GitHub](https://img.icons8.com/fluency/50/000000/github.png) | ![VS Code](https://img.icons8.com/fluency/50/000000/visual-studio-code.png) |
+| ![Git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp2RKrzqJF2Cu3dxnk2RGK_F7SSloJG-Wyw&s) | ![GitHub](https://img.icons8.com/fluency/50/000000/github.png) | ![VS Code](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9E5HZlsBUfIyQdZy53DBNd5c9aIxECWdFww&s) |
 | --- | --- | --- |
 | **Git** | **GitHub** | **VS Code** |
 
@@ -55,85 +55,10 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ### **Database Management**
-| ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) | ![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white) |
+| ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) | ![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white) |
 | --- | --- |
 | **SQL** | **Firebase Firestore** |
 
----
-
-### **Libraries & Technologies**
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; align-items: center;">
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/okhttp.png" alt="OkHttp" style="width: 80px; height: 80px;" />
-    <p><strong>OkHttp</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/api.png" alt="RESTful API" style="width: 80px; height: 80px;" />
-    <p><strong>RESTful API</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/barcode.png" alt="ZXing" style="width: 80px; height: 80px;" />
-    <p><strong>ZXing</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/material.png" alt="Material Design" style="width: 80px; height: 80px;" />
-    <p><strong>Material Design</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/architecture.png" alt="MVVM" style="width: 80px; height: 80px;" />
-    <p><strong>MVVM</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/blocks.png" alt="BLoC" style="width: 80px; height: 80px;" />
-    <p><strong>BLoC</strong></p>
-  </div>
-
-</div>
-
----
-
-### **Development Methodologies**
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; align-items: center;">
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/trello.png" alt="Agile" style="width: 80px; height: 80px;" />
-    <p><strong>Agile</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/scrum.png" alt="Scrum" style="width: 80px; height: 80px;" />
-    <p><strong>Scrum</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/jest.png" alt="TDD" style="width: 80px; height: 80px;" />
-    <p><strong>TDD</strong></p>
-  </div>
-
-</div>
-
----
-
-### **Database Management**
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; align-items: center;">
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" style="width: 80px; height: 80px;" />
-    <p><strong>SQL</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/firebase.png" alt="Firebase Firestore" style="width: 80px; height: 80px;" />
-    <p><strong>Firebase Firestore</strong></p>
-  </div>
-
-</div>
 
 ---
 
