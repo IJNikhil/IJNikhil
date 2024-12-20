@@ -6,7 +6,7 @@
 ---
 
 ## 📜 About Me
-Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Passionate about working in **Agile** environments and continuously learning cutting-edge technologies to tackle complex challenges.
+Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled in Android development, Firebase integration, and backend optimizations. Passionate about working in Agile environments and continuously learning cutting-edge technologies to tackle complex challenges.
 
 > **"Engineering solutions that create seamless user experiences."**
 
@@ -22,9 +22,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**Java**</td>
-    <td>**Python**</td>
-    <td>**Dart**</td>
+    <td>Java</td>
+    <td>Python</td>
+    <td>Dart</td>
   </tr>
 </table>
 
@@ -35,9 +35,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://img.icons8.com/fluency/50/000000/javascript.png" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**SQL**</td>
-    <td>**C++**</td>
-    <td>**JavaScript**</td>
+    <td>SQL</td>
+    <td>C++</td>
+    <td>JavaScript</td>
   </tr>
 </table>
 
@@ -51,9 +51,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://img.icons8.com/fluency/50/000000/unity.png" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**Android**</td>
-    <td>**Firebase**</td>
-    <td>**Unity**</td>
+    <td>Android</td>
+    <td>Firebase</td>
+    <td>Unity</td>
   </tr>
 </table>
 
@@ -64,9 +64,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9E5HZlsBUfIyQdZy53DBNd5c9aIxECWdFww&s" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**Git**</td>
-    <td>**GitHub**</td>
-    <td>**VS Code**</td>
+    <td>Git</td>
+    <td>GitHub</td>
+    <td>VS Code</td>
   </tr>
 </table>
 
@@ -80,9 +80,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://img.icons8.com/fluency/50/000000/barcode.png" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**OkHttp**</td>
-    <td>**RESTful API**</td>
-    <td>**ZXing**</td>
+    <td>OkHttp</td>
+    <td>RESTful API</td>
+    <td>ZXing</td>
   </tr>
 </table>
 
@@ -93,9 +93,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**Material 3 Design**</td>
-    <td>**MVVM**</td>
-    <td>**BLoC**</td>
+    <td>Material 3 Design</td>
+    <td>MVVM</td>
+    <td>BLoC</td>
   </tr>
 </table>
 
@@ -108,8 +108,8 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://www.perfecto.io/sites/default/files/styles/social_preview_image/public/image/2022-08/image-blog-test-driven-data.jpg?itok=smKqN5Dl" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**Agile**</td>
-    <td>**TDD**</td>
+    <td>Agile</td>
+    <td>TDD</td>
   </tr>
 </table>
 
@@ -122,10 +122,36 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" width="50" height="50" /></td>
   </tr>
   <tr>
-    <td>**SQL**</td>
-    <td>**Firebase Firestore**</td>
+    <td>SQL</td>
+    <td>Firebase Firestore</td>
   </tr>
 </table>
+
+---
+
+### **Contact**  
+- 📧 **Email**: nikhileshwaradam1234@gmail.com  
+- 🌐 **Website**: [https://github.com/IJNikhil](https://github.com/IJNikhil)
+
+---
+
+## 🏆 Achievements & Certifications
+- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**, StrataZeal 1.0 Case Competition  
+  *Symbiosis Centre for Management and HRD, Pune* – Recognized for innovative business solutions using Power BI.
+  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
+    <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" style="width: 80px; height: 80px;" />
+    <p><strong>SQL</strong></p>
+  </div>
+
+- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**, A-1 Launchpad National Challenge  
+  *A-1 Fence Products Company Pvt. Ltd.* – Developed a hardware-software product addressing real-world challenges.
+  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
+    <img src="https://img.icons8.com/ios/50/000000/firebase.png" alt="Firebase Firestore" style="width: 80px; height: 80px;" />
+    <p><strong>Firebase Firestore</strong></p>
+  </div>
+
+- **Google Cloud Certification** – Obtained certification in Cloud Computing fundamentals and practical applications.
+
 ---
 
 ### **Contact**  
