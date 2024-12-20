@@ -7,12 +7,13 @@
 
 <p style="font-size: 18px; font-weight: bold;">
    <a href="https://www.linkedin.com/in/nikhileshwar-adam/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" alt="LinkedIn" style="width: 50px; height: 50px;"/>
    </a>
    <a href="https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f" target="_blank">
-      <img src="https://img.shields.io/badge/Google%20Cloud-Skills-yellow?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Google_Cloud_logo_2020.svg/1200px-Google_Cloud_logo_2020.svg.png" alt="Google Cloud Skills" style="width: 50px; height: 50px;"/>
    </a>
 </p>
+
 
 ---
 
