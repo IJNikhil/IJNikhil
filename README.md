@@ -1,7 +1,5 @@
 # Nikhileshwar Adam - Software Engineer
 
-![Profile Picture](https://via.placeholder.com/150)  <!-- Optional logo/profile image -->
-
 ## 📜 About Me
 Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in developing and scaling applications, specializing in **Android development** and **Firebase integration**. Proficient in designing and optimizing high-performance solutions to enhance user experience. Strong collaborator in **Agile** environments, with a reputation for problem-solving, clear communication, and a commitment to delivering high-quality code. Passionate about continuously learning and leveraging new technologies to tackle complex challenges and contribute to innovative projects.
 
@@ -27,20 +25,11 @@ Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and *
 
 ---
 
-## 💼 Experience
-- **Software Engineer** | Freelance Projects  
-  *Developed mobile applications, integrated APIs, and optimized backend systems for various clients.*
-
-- **Internship** | XYZ Company (Include any relevant internship or work experience if applicable)  
-  *Worked on Android app development, Firebase integration, and database management.*
-
----
-
 ## 📂 Projects
 - **AGPIT Guide – Campus Navigation App** | Unity 3D, C#, Android SDK  
-- **ChatBotX – AI Chatbot** | Flutter, Dart, GeminiAI API, Firebase  
-- **ETESA – Real-Time Attendance Tracking** | Java, Firebase, Android Studio  
-- **Loop – Real-Time Messaging App** | Java, Firebase, Android Studio  
+- [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini) | Flutter, Dart, GeminiAI API, Firebase  
+- [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA) | Java, Firebase, Android Studio  
+- [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop) | Java, Firebase, Android Studio  
 
 > For more details and code, check my repositories on [GitHub](https://github.com/yourusername).
 
@@ -48,7 +37,7 @@ Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and *
 
 ## 🏆 Achievements
 - **Finalist**, StrataZeal 1.0 Case Competition (Symbiosis Centre for Management and HRD, Pune)  
-  *Recognized for innovative business solutions using Power BI.*
+  *Recognized for innovative business solutions using Power BI.* 
   
 - **Finalist**, A-1 Launchpad National Challenge (A-1 Fence Products Company Pvt. Ltd.)  
   *Developed a hardware-software product addressing real-world business challenges.*
@@ -63,8 +52,7 @@ Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and *
 
 ## 🔗 Contact Me
 - **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
-- **GitHub**: [Nikhileshwar Adam's GitHub](https://github.com/yourusername)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
 
 ---
 
