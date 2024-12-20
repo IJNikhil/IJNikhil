@@ -12,9 +12,9 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
-### **Programming Languages**
+### Programming Languages
 <table>
   <tr>
     <td><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50" height="50" /></td>
@@ -43,7 +43,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 ---
 
-### **Frameworks & Tools**
+### Frameworks & Tools
 <table>
   <tr>
     <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX98TKIsaJF7D4wnq7YBOuMjtYH-6D5Kgm7m7VbRek7cQIGN7TNVtJMDIbSiEG5KgcGyGpgGxEOz7u9v-WhQASrQrjvCQF8-RQ7PsZpA6djqK7RA7mXrnt6aYiac8voLef_mhP-s_TucPVEP1vvmUBjspmjA2RdrbvIqVwYXQJZ1fwPyamJIxXTrgMVmg/s1600/image1.png" width="50" height="50" /></td>
@@ -72,7 +72,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 ---
 
-### **Libraries & Technologies**
+### Libraries & Technologies
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/OkHttp-4D4D4D?style=for-the-badge&logo=okhttp&logoColor=white" width="50" height="50" /></td>
@@ -101,7 +101,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 ---
 
-### **Development Methodologies**
+### Development Methodologies
 <table>
   <tr>
     <td><img src="https://e7.pngegg.com/pngimages/446/260/png-clipart-agile-software-development-software-development-process-waterfall-model-systems-development-life-cycle-others-text-logo.png" width="50" height="50" /></td>
@@ -115,7 +115,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 ---
 
-### **Database Management**
+### Database Management
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" /></td>
@@ -129,19 +129,9 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 ---
 
-### **Contact**  
-- 📧 **Email**: nikhileshwaradam1234@gmail.com  
-- 🌐 **Website**: [https://github.com/IJNikhil](https://github.com/IJNikhil)
-
----
-
 ## 🏆 Achievements & Certifications
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**, StrataZeal 1.0 Case Competition  
   *Symbiosis Centre for Management and HRD, Pune* – Recognized for innovative business solutions using Power BI.
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" style="width: 80px; height: 80px;" />
-    <p><strong>SQL</strong></p>
-  </div>
 
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**, A-1 Launchpad National Challenge  
   *A-1 Fence Products Company Pvt. Ltd.* – Developed a hardware-software product addressing real-world challenges.
@@ -154,6 +144,5 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 ---
 
-### **Contact**  
-- 📧 **Email**: nikhileshwaradam1234@gmail.com  
-- 🌐 **Website**: [https://github.com/IJNikhil](https://github.com/IJNikhil)
+### Contact  
+- 📧 **Email**: nikhileshwaradam1234@gmail.com
