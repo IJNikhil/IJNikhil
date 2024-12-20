@@ -15,7 +15,7 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 🛠️ **Technical Skills**
 
 ### **Programming Languages**
-| ![Java](https://img.icons8.com/fluency/50/000000/java.png) | ![Python](https://img.icons8.com/fluency/50/000000/python.png) | ![Dart](https://img.icons8.com/fluency/50/000000/dart.png) |
+| ![Java](https://img.icons8.com/fluency/50/000000/java.png) | ![Python](https://img.icons8.com/fluency/50/000000/python.png) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
 | --- | --- | --- |
 | **Java** | **Python** | **Dart** |
 
@@ -26,7 +26,7 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ### **Frameworks & Tools**
-| ![Android](https://img.icons8.com/fluency/50/000000/android.png) | ![Firebase](https://img.icons8.com/fluency/50/000000/firebase.png) | ![Unity](https://img.icons8.com/fluency/50/000000/unity.png) |
+| ![Android](https://img.icons8.com/fluency/50/000000/android.png) | ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white) | ![Unity](https://img.icons8.com/fluency/50/000000/unity.png) |
 | --- | --- | --- |
 | **Android** | **Firebase** | **Unity** |
 
@@ -37,13 +37,13 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ### **Libraries & Technologies**
-| ![OkHttp](https://img.icons8.com/fluency/50/000000/okhttp.png) | ![RESTful API](https://img.icons8.com/fluency/50/000000/api.png) | ![ZXing](https://img.icons8.com/fluency/50/000000/barcode.png) |
+| ![OkHttp](https://img.shields.io/badge/OkHttp-4D4D4D?style=for-the-badge&logo=okhttp&logoColor=white) | ![RESTful API](https://img.icons8.com/fluency/50/000000/api.png) | ![ZXing](https://img.icons8.com/fluency/50/000000/barcode.png) |
 | --- | --- | --- |
 | **OkHttp** | **RESTful API** | **ZXing** |
 
-| ![Material Design](https://img.icons8.com/fluency/50/000000/material.png) | ![MVVM](https://img.icons8.com/fluency/50/000000/architecture.png) | ![BLoC](https://img.icons8.com/fluency/50/000000/blocks.png) |
+| ![Material Design](https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white) | ![MVVM](https://img.shields.io/badge/MVVM-FF5722?style=for-the-badge&logo=java&logoColor=white) | ![BLoC](https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white) |
 | --- | --- | --- |
-| **Material Design** | **MVVM** | **BLoC** |
+| **Material 3 Design** | **MVVM** | **BLoC** |
 
 ---
 
@@ -55,12 +55,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ### **Database Management**
-| ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) | ![Firebase Firestore](https://img.icons8.com/fluency/50/000000/firebase.png) |
+| ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) | ![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white) |
 | --- | --- |
 | **SQL** | **Firebase Firestore** |
-
-
-
 
 ---
 
