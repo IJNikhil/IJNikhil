@@ -1,110 +1,103 @@
 # Nikhileshwar Adam - Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue)](https://www.linkedin.com/in/nikhileshwar-adam/)  
-[CloudSkillsBoost Profile](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=for-the-badge)](https://www.linkedin.com/in/nikhileshwar-adam/)  
+[![CloudSkillsBoost Profile](https://img.shields.io/badge/CloudSkillsBoost-Profile-brightgreen?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
 
 ---
 
 ## 📜 About Me
-Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Passionate about **mobile applications**, **Agile environments**, and **continuous learning**.
+I'm a passionate **Software Engineer** specializing in **Java**, **Python**, **Dart**, **SQL**, **Android Development**, and **Firebase Integration**. I’m focused on building scalable, user-friendly applications with high performance in mind.
 
-> **"Engineering solutions that create seamless user experiences."**
+> "Crafting high-performance, user-centric solutions with the latest technologies."
+
+I have experience in **Agile** environments, continuously learning to optimize applications and tackle complex challenges.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### **Programming Languages**
-![Java](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-java-programming-language-logo-flat-flat-juicy-fish.png)  
-**Java**, **Python**, **Dart**, **SQL**, **C**, **C++**, **JavaScript**, **C#**
+**Languages & Frameworks**
+- ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png) **Java**
+- ![Python](https://img.icons8.com/ios/50/000000/python.png) **Python**
+- ![Dart](https://img.icons8.com/ios/50/000000/dart.png) **Dart**
+- ![SQL](https://img.icons8.com/ios/50/000000/database.png) **SQL**
+- ![C++](https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png) **C/C++**
+- ![JavaScript](https://img.icons8.com/ios/50/000000/javascript-logo.png) **JavaScript**
 
 ---
 
-### **Frameworks & Tools**
-- ![Android](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-android-logo-flat-flat-juicy-fish.png) **Android SDK**
-- ![Firebase](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-firebase-cloud-platform-logo-flat-flat-juicy-fish.png) **Firebase**
-- ![Unity](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-unity-logo-flat-flat-juicy-fish.png) **Unity 3D**
-- ![Git](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-git-logo-flat-flat-juicy-fish.png) **Git**
-- ![GitHub](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-github-logo-flat-flat-juicy-fish.png) **GitHub**
-- ![Linux](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-linux-logo-flat-flat-juicy-fish.png) **Linux**
-- ![Windows](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-windows-10-logo-flat-flat-juicy-fish.png) **Windows**
+**Tools & Libraries**
+- ![Android](https://img.icons8.com/ios/50/000000/android.png) **Android SDK**
+- ![Firebase](https://img.icons8.com/ios/50/000000/firebase.png) **Firebase**
+- ![GitHub](https://img.icons8.com/ios/50/000000/github.png) **Git & GitHub**
+- ![Unity](https://img.icons8.com/ios/50/000000/unity.png) **Unity 3D**
+- ![Linux](https://img.icons8.com/ios/50/000000/linux.png) **Linux**
+- ![Windows](https://img.icons8.com/ios/50/000000/windows.png) **Windows**
 
 ---
 
-### **Libraries & Technologies**
-- ![OkHttp](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-ok-http-logo-flat-flat-juicy-fish.png) **OkHttp**
-- ![API](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-api-logo-flat-flat-juicy-fish.png) **RESTful API**
-- ![ZXing](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-zxing-logo-flat-flat-juicy-fish.png) **ZXing**
-- ![Material Design](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-material-design-logo-flat-flat-juicy-fish.png) **Material Design**
-- ![MVVM](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-mvvm-logo-flat-flat-juicy-fish.png) **MVVM**
-- ![BLoC](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-flutter-logo-flat-flat-juicy-fish.png) **BLoC**
-
----
-
-### **Development Methodologies**
-- ![Agile](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-agile-logo-flat-flat-juicy-fish.png) **Agile**
-- ![Scrum](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-scrum-logo-flat-flat-juicy-fish.png) **Scrum**
-- ![TDD](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-test-passed-logo-flat-flat-juicy-fish.png) **Test-Driven Development (TDD)**
-- ![SDLC](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sd-card-logo-flat-flat-juicy-fish.png) **SDLC**
-
----
-
-### **Database Management**
-- ![SQL Database](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-database-logo-flat-flat-juicy-fish.png) **SQL**
-- ![Firebase](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-firebase-logo-flat-flat-juicy-fish.png) **Firebase Firestore**
+**Development Methodologies**
+- ![Agile](https://img.icons8.com/ios/50/000000/scrum-board.png) **Agile**
+- ![TDD](https://img.icons8.com/ios/50/000000/test-tube.png) **Test-Driven Development (TDD)**
+- ![SDLC](https://img.icons8.com/ios/50/000000/project-management.png) **SDLC**
 
 ---
 
 ## 🧑‍💻 Education
 
 - **B.Tech in Computer Engineering**  
-  *AGPIT Solapur, Maharashtra* | November 2022 – May 2025  
+  *AGPIT Solapur, Maharashtra* | Nov 2022 – May 2025  
   **CGPA**: 6.5/10 (Final Year)
 
 - **Diploma in Computer Engineering**  
-  *SPM Solapur, Maharashtra* | August 2019 – July 2022  
+  *SPM Solapur, Maharashtra* | Aug 2019 – Jul 2022  
   **Percentage**: 84.97%
 
 ---
 
 ## 📂 Projects
 
-- **AGPIT Guide – Campus Navigation App**  
-  Developed a real-time campus navigation app that helps users find optimized routes with a 3D interactive map.
+### 1. **AGPIT Guide – Campus Navigation App**  
+A real-time campus navigation app with a 3D interactive map, helping users find optimized routes.
 
-- [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
-  AI-powered chatbot providing real-time conversational experiences for seamless user interactions.
+### 2. [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
+An AI-powered chatbot delivering seamless conversational experiences using **GeminiAI API** and **Firebase**.
 
-- [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA)  
-  Mobile app that tracks real-time attendance with secure data storage in Firebase.
+### 3. [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA)  
+A mobile app for tracking attendance in real-time, with secure data storage using **Firebase**.
 
-- [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop)  
-  Messaging platform that synchronizes chat data instantly with Firebase for real-time communication.
+### 4. [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop)  
+A messaging platform that enables instant communication using **Firebase** for real-time synchronization.
 
-> **For more details and code, check my repositories on [GitHub](https://github.com/IJNikhil).**
+> Check out more of my work on [GitHub](https://github.com/IJNikhil).
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**, StrataZeal 1.0 Case Competition  
-  *Symbiosis Centre for Management and HRD, Pune* – Recognized for innovative business solutions using Power BI.
+### **1. [StrataZeal 1.0 Case Competition - Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**  
+**Symbiosis Centre for Management and HRD, Pune**  
+Recognized for innovative business solutions using **Power BI**.
 
-- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**, A-1 Launchpad National Challenge  
-  *A-1 Fence Products Company Pvt. Ltd.* – Developed a hardware-software product addressing real-world business challenges.
+### **2. [A-1 Launchpad National Challenge - Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**  
+**A-1 Fence Products Company Pvt. Ltd.**  
+Developed a hardware-software product addressing real-world business challenges.
 
-- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_iit-roorkee-e-summit-productathonai-activity-7003351672940711936-8muG)**, IIT Roorkee E-Summit 2024 ProductathonAI Hackathon  
-  *IIT Roorkee Campus* – Created a Machine Learning-based software for price prediction in market forecasting.
+### **3. [IIT Roorkee E-Summit 2024 ProductathonAI - Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_iit-roorkee-e-summit-productathonai-activity-7003351672940711936-8muG)**  
+**IIT Roorkee**  
+Created a machine learning-based software for price prediction in market forecasting.
 
-- **[Participant](https://www.linkedin.com/posts/nikhileshwar-adam_android-development-competition-wit-solapur-activity-7002010736349878272-rcAm)**, Android Development Competition, WIT Solapur  
-  *Developed a functional Android app as part of a team under time constraints.*
+### **4. [Android Development Competition - Participant](https://www.linkedin.com/posts/nikhileshwar-adam_android-development-competition-wit-solapur-activity-7002010736349878272-rcAm)**  
+**WIT Solapur**  
+Developed a functional Android app as part of a team under time constraints.
 
-- **4th Place**, Product Management Championship by BookMyMentor  
-  *Secured 4th place and earned Live Project Certificate.*
+### **5. **Product Management Championship by BookMyMentor - 4th Place**  
+Secured **4th place** and earned a **Live Project Certificate**.
 
 ---
 
 ## 🔗 Contact Me
+
 - **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
 - **GitHub**: [Nikhileshwar Adam's GitHub](https://github.com/IJNikhil)
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
@@ -112,4 +105,7 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ## 📄 License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
+
+---
