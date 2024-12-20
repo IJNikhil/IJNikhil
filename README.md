@@ -1,8 +1,18 @@
-# Nikhileshwar Adam - Software Engineer
-# Experienced Software Engineer | Java, Dart, SQL, Firebase & Cloud Solutions Expert
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue)](https://www.linkedin.com/in/nikhileshwar-adam/)  
-[Google Cloud Skills](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
+# <span style="color: #4CAF50;">Experienced Software Engineer</span> | 
+   <span style="color: #F44336;">Java</span>, 
+   <span style="color: #1976D2;">Dart</span>, 
+   <span style="color: #FF5722;">SQL</span>, 
+   <span style="color: #FFC107;">Firebase</span> & 
+   <span style="color: #3F51B5;">Cloud Solutions Expert</span>
 
+<p style="font-size: 18px; font-weight: bold;">
+   <a href="https://www.linkedin.com/in/nikhileshwar-adam/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   </a>
+   <a href="https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Cloud-Skills-yellow?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills" />
+   </a>
+</p>
 
 ---
 
