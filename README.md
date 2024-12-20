@@ -1,102 +1,100 @@
 # Nikhileshwar Adam - Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=for-the-badge)](https://www.linkedin.com/in/nikhileshwar-adam/)  
-[![CloudSkillsBoost Profile](https://img.shields.io/badge/CloudSkillsBoost-Profile-brightgreen?style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue?style=for-the-badge)](https://www.linkedin.com/in/nikhileshwar-adam/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Nikhileshwar%20Adam-gray?style=for-the-badge)](https://github.com/IJNikhil)
 
 ---
 
-## 📜 About Me
-I'm a passionate **Software Engineer** specializing in **Java**, **Python**, **Dart**, **SQL**, **Android Development**, and **Firebase Integration**. I’m focused on building scalable, user-friendly applications with high performance in mind.
+## About Me
 
-> "Crafting high-performance, user-centric solutions with the latest technologies."
+I'm a passionate Software Engineer with a knack for building **scalable, user-friendly applications**. I specialize in **Java**, **Python**, **Dart**, and **Android Development**, leveraging my skills to craft high-performance solutions.  
 
-I have experience in **Agile** environments, continuously learning to optimize applications and tackle complex challenges.
+> "Enthusiastic about creating impactful experiences through innovative software development."
 
----
-
-## 🛠️ Technical Skills
-
-**Languages & Frameworks**
-- ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png) **Java**
-- ![Python](https://img.icons8.com/ios/50/000000/python.png) **Python**
-- ![Dart](https://img.icons8.com/ios/50/000000/dart.png) **Dart**
-- ![SQL](https://img.icons8.com/ios/50/000000/database.png) **SQL**
-- ![C++](https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png) **C/C++**
-- ![JavaScript](https://img.icons8.com/ios/50/000000/javascript-logo.png) **JavaScript**
+I thrive in **Agile** environments, continuously learning and optimizing code to tackle complex challenges.
 
 ---
 
-**Tools & Libraries**
-- ![Android](https://img.icons8.com/ios/50/000000/android.png) **Android SDK**
-- ![Firebase](https://img.icons8.com/ios/50/000000/firebase.png) **Firebase**
-- ![GitHub](https://img.icons8.com/ios/50/000000/github.png) **Git & GitHub**
-- ![Unity](https://img.icons8.com/ios/50/000000/unity.png) **Unity 3D**
-- ![Linux](https://img.icons8.com/ios/50/000000/linux.png) **Linux**
-- ![Windows](https://img.icons8.com/ios/50/000000/windows.png) **Windows**
+## Technical Skills
+
+**Languages & Frameworks:**
+
+* ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png) **Java**
+* ![Python](https://img.icons8.com/ios/50/000000/python.png) **Python**
+* ![Dart](https://img.icons8.com/ios/50/000000/dart.png) **Dart**
+* ![SQL](https://img.icons8.com/ios/50/000000/database.png) **SQL**
+* ![C++](https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png) **C/C++** (Basic Understanding)
+* ![JavaScript](https://img.icons8.com/ios/50/000000/javascript-logo.png) **JavaScript** (Basic Understanding)
 
 ---
 
-**Development Methodologies**
-- ![Agile](https://img.icons8.com/ios/50/000000/scrum-board.png) **Agile**
-- ![TDD](https://img.icons8.com/ios/50/000000/test-tube.png) **Test-Driven Development (TDD)**
-- ![SDLC](https://img.icons8.com/ios/50/000000/project-management.png) **SDLC**
+**Tools & Libraries:**
+
+* ![Android](https://img.icons8.com/ios/50/000000/android.png) **Android SDK**
+* ![Firebase](https://img.icons8.com/ios/50/000000/firebase.png) **Firebase**
+* ![GitHub](https://img.icons8.com/ios/50/000000/github.png) **Git & GitHub**
+* ![Unity](https://img.icons8.com/ios/50/000000/unity.png) **Unity 3D** (Basic Understanding)
+* ![Linux](https://img.icons8.com/ios/50/000000/linux.png) **Linux**
+* ![Windows](https://img.icons8.com/ios/50/000000/windows.png) **Windows**
 
 ---
 
-## 🧑‍💻 Education
+**Development Methodologies:**
 
-- **B.Tech in Computer Engineering**  
-  *AGPIT Solapur, Maharashtra* | Nov 2022 – May 2025  
-  **CGPA**: 6.5/10 (Final Year)
-
-- **Diploma in Computer Engineering**  
-  *SPM Solapur, Maharashtra* | Aug 2019 – Jul 2022  
-  **Percentage**: 84.97%
+* ![Agile](https://img.icons8.com/ios/50/000000/scrum-board.png) **Agile**
+* ![TDD](https://img.icons8.com/ios/50/000000/test-tube.png) **Test-Driven Development (TDD)** (Familiar)
+* ![SDLC](https://img.icons8.com/ios/50/000000/project-management.png) **SDLC** (Understanding)
 
 ---
 
-## 📂 Projects
+## Education
 
-### 1. **AGPIT Guide – Campus Navigation App**  
+**B.Tech in Computer Engineering** (Expected May 2025)  
+* AGPIT Solapur, Maharashtra | CGPA: 6.5/10
+
+**Diploma in Computer Engineering** (Jul 2022)  
+* SPM Solapur, Maharashtra | Percentage: 84.97%
+
+---
+
+## Projects
+
+### 1. AGPIT Guide
 A real-time campus navigation app with a 3D interactive map, helping users find optimized routes.
 
-### 2. [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
-An AI-powered chatbot delivering seamless conversational experiences using **GeminiAI API** and **Firebase**.
+### 2. ChatBotX – AI Chatbot
+An AI-powered chatbot delivering seamless conversational experiences using GeminiAI API and Firebase. 
 
-### 3. [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA)  
-A mobile app for tracking attendance in real-time, with secure data storage using **Firebase**.
+### 3. ETESA – Real-Time Attendance Tracking
+A mobile app for tracking attendance in real-time, with secure data storage using Firebase.
 
-### 4. [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop)  
-A messaging platform that enables instant communication using **Firebase** for real-time synchronization.
+### 4. Loop – Real-Time Messaging App
+A messaging platform that enables instant communication using Firebase for real-time synchronization.
 
 > Check out more of my work on [GitHub](https://github.com/IJNikhil).
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
-### **1. [StrataZeal 1.0 Case Competition - Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**  
-**Symbiosis Centre for Management and HRD, Pune**  
-Recognized for innovative business solutions using **Power BI**.
-
-### **2. [A-1 Launchpad National Challenge - Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**  
-**A-1 Fence Products Company Pvt. Ltd.**  
-Developed a hardware-software product addressing real-world business challenges.
-
-### **3. [IIT Roorkee E-Summit 2024 ProductathonAI - Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_iit-roorkee-e-summit-productathonai-activity-7003351672940711936-8muG)**  
-**IIT Roorkee**  
-Created a machine learning-based software for price prediction in market forecasting.
-
-### **4. [Android Development Competition - Participant](https://www.linkedin.com/posts/nikhileshwar-adam_android-development-competition-wit-solapur-activity-7002010736349878272-rcAm)**  
-**WIT Solapur**  
-Developed a functional Android app as part of a team under time constraints.
-
-### **5. **Product Management Championship by BookMyMentor - 4th Place**  
-Secured **4th place** and earned a **Live Project Certificate**.
+* **StrataZeal 1.0 Case Competition - Finalist** 
+  * Symbiosis Centre for Management and HRD, Pune
+  * Recognized for innovative business solutions using Power BI.
+* **A-1 Launchpad National Challenge - Finalist** 
+  * A-1 Fence Products Company Pvt. Ltd.
+  * Developed a hardware-software product addressing real-world business challenges.
+* **IIT Roorkee E-Summit 2024 ProductathonAI - Finalist** 
+  * IIT Roorkee
+  * Created a machine learning-based software for price prediction in market forecasting.
+* **Android Development Competition - Participant** 
+  * WIT Solapur
+  * Developed a functional Android app as part of a team under time constraints.
+* **Product Management Championship by BookMyMentor - 4th Place**
+  * Secured 4th place and earned a Live Project Certificate.
 
 ---
 
-## 🔗 Contact Me
+## Contact Me
 
 - **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
 - **GitHub**: [Nikhileshwar Adam's GitHub](https://github.com/IJNikhil)
@@ -104,8 +102,6 @@ Secured **4th place** and earned a **Live Project Certificate**.
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
-
----
