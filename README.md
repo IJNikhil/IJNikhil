@@ -48,9 +48,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ### **Development Methodologies**
-| ![Agile](https://img.icons8.com/fluency/50/000000/trello.png) | ![Scrum](https://img.icons8.com/fluency/50/000000/scrum.png) | ![TDD](https://img.icons8.com/fluency/50/000000/jest.png) |
-| --- | --- | --- |
-| **Agile** | **Scrum** | **TDD** |
+| ![Agile](https://e7.pngegg.com/pngimages/446/260/png-clipart-agile-software-development-software-development-process-waterfall-model-systems-development-life-cycle-others-text-logo.png) | ![TDD](https://www.perfecto.io/sites/default/files/styles/social_preview_image/public/image/2022-08/image-blog-test-driven-data.jpg?itok=smKqN5Dl) |
+| --- | --- |
+| **Agile** | **TDD** |
 
 ---
 
@@ -58,6 +58,7 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 | ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) | ![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white) |
 | --- | --- |
 | **SQL** | **Firebase Firestore** |
+
 
 
 ---
