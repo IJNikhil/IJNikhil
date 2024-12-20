@@ -1,7 +1,16 @@
 # Nikhileshwar Adam - Software Engineer
 
+![Profile Picture](https://via.placeholder.com/150) <!-- Optional profile image -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue)](https://www.linkedin.com/in/nikhileshwar-adam/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Nikhileshwar%20Adam-darkgrey)](https://github.com/IJNikhil)
+
+---
+
 ## 📜 About Me
-Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in developing and scaling applications, specializing in **Android development** and **Firebase integration**. Proficient in designing and optimizing high-performance solutions to enhance user experience. Strong collaborator in **Agile** environments, with a reputation for problem-solving, clear communication, and a commitment to delivering high-quality code. Passionate about continuously learning and leveraging new technologies to tackle complex challenges and contribute to innovative projects.
+Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Strong experience in delivering high-performance solutions for mobile applications. Passionate about working in **Agile** environments and continuously learning cutting-edge technologies to tackle complex challenges.
+
+> **"Engineering solutions that create seamless user experiences."**
 
 ---
 
@@ -16,33 +25,43 @@ Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and *
 
 ## 🧑‍💻 Education
 - **B.Tech in Computer Engineering**  
-  AGPIT Solapur, Maharashtra | November 2022 – May 2025  
-  CGPA: 6.5/10 (Final Year)
+  *AGPIT Solapur, Maharashtra* | November 2022 – May 2025  
+  **CGPA**: 6.5/10 (Final Year)
 
 - **Diploma in Computer Engineering**  
-  SPM Solapur, Maharashtra | August 2019 – July 2022  
-  84.97%
+  *SPM Solapur, Maharashtra* | August 2019 – July 2022  
+  **Percentage**: 84.97%
 
 ---
 
 ## 📂 Projects
-- **AGPIT Guide – Campus Navigation App** | Unity 3D, C#, Android SDK  
-- [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini) | Flutter, Dart, GeminiAI API, Firebase  
-- [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA) | Java, Firebase, Android Studio  
-- [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop) | Java, Firebase, Android Studio  
+- **AGPIT Guide – Campus Navigation App**  
+  Developed a real-time campus navigation app that helps users find optimized routes with a 3D interactive map.
+  
+- [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
+  AI-powered chatbot that delivers real-time conversational experiences for seamless user interactions.
 
-> For more details and code, check my repositories on [GitHub](https://github.com/yourusername).
+- [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA)  
+  Mobile app that tracks real-time attendance and allows secure data storage in Firebase.
+
+- [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop)  
+  Messaging platform that synchronizes chat data instantly with Firebase for real-time communication.
+
+> **For more details and code, check my repositories on [GitHub](https://github.com/IJNikhil).**
 
 ---
 
-## 🏆 Achievements
-- **Finalist**, StrataZeal 1.0 Case Competition (Symbiosis Centre for Management and HRD, Pune)  
-  *Recognized for innovative business solutions using Power BI.* 
-  
-- **Finalist**, A-1 Launchpad National Challenge (A-1 Fence Products Company Pvt. Ltd.)  
-  *Developed a hardware-software product addressing real-world business challenges.*
+## 🏆 Achievements & Certifications
+- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**, StrataZeal 1.0 Case Competition  
+  *Symbiosis Centre for Management and HRD, Pune* – Recognized for innovative business solutions using Power BI.
 
-- **Participant**, Android Development Competition, WIT Solapur  
+- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**, A-1 Launchpad National Challenge  
+  *A-1 Fence Products Company Pvt. Ltd.* – Developed a hardware-software product addressing real-world business challenges.
+
+- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_iit-roorkee-e-summit-productathonai-activity-7003351672940711936-8muG)**, IIT Roorkee E-Summit 2024 ProductathonAI Hackathon  
+  *IIT Roorkee Campus* – Created a Machine Learning-based software for price prediction in market forecasting.
+
+- **[Participant](https://www.linkedin.com/posts/nikhileshwar-adam_android-development-competition-wit-solapur-activity-7002010736349878272-rcAm)**, Android Development Competition, WIT Solapur  
   *Developed a functional Android app as part of a team under time constraints.*
 
 - **4th Place**, Product Management Championship by BookMyMentor  
@@ -52,7 +71,6 @@ Driven Software Engineer with expertise in **Java**, **Python**, **Dart**, and *
 
 ## 🔗 Contact Me
 - **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
-
 
 ---
 
