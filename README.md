@@ -15,45 +15,50 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 🛠️ **Technical Skills**
 
 ### **Programming Languages**
-- ![Java](https://img.icons8.com/fluency/50/000000/java.png) **Java**
-- ![Python](https://img.icons8.com/fluency/50/000000/python.png) **Python**
-- ![Dart](https://img.icons8.com/fluency/50/000000/dart.png) **Dart**
-- ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) **SQL**
-- ![C++](https://img.icons8.com/fluency/50/000000/c-plus-plus.png) **C++**
-- ![JavaScript](https://img.icons8.com/fluency/50/000000/javascript.png) **JavaScript**
+| ![Java](https://img.icons8.com/fluency/50/000000/java.png) | ![Python](https://img.icons8.com/fluency/50/000000/python.png) | ![Dart](https://img.icons8.com/fluency/50/000000/dart.png) |
+| --- | --- | --- |
+| **Java** | **Python** | **Dart** |
+
+| ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) | ![C++](https://img.icons8.com/fluency/50/000000/c-plus-plus.png) | ![JavaScript](https://img.icons8.com/fluency/50/000000/javascript.png) |
+| --- | --- | --- |
+| **SQL** | **C++** | **JavaScript** |
 
 ---
 
 ### **Frameworks & Tools**
-- ![Android](https://img.icons8.com/fluency/50/000000/android.png) **Android**
-- ![Firebase](https://img.icons8.com/fluency/50/000000/firebase.png) **Firebase**
-- ![Unity](https://img.icons8.com/fluency/50/000000/unity.png) **Unity**
-- ![Git](https://img.icons8.com/fluency/50/000000/git.png) **Git**
-- ![GitHub](https://img.icons8.com/fluency/50/000000/github.png) **GitHub**
-- ![VS Code](https://img.icons8.com/fluency/50/000000/visual-studio-code.png) **VS Code**
+| ![Android](https://img.icons8.com/fluency/50/000000/android.png) | ![Firebase](https://img.icons8.com/fluency/50/000000/firebase.png) | ![Unity](https://img.icons8.com/fluency/50/000000/unity.png) |
+| --- | --- | --- |
+| **Android** | **Firebase** | **Unity** |
+
+| ![Git](https://img.icons8.com/fluency/50/000000/git.png) | ![GitHub](https://img.icons8.com/fluency/50/000000/github.png) | ![VS Code](https://img.icons8.com/fluency/50/000000/visual-studio-code.png) |
+| --- | --- | --- |
+| **Git** | **GitHub** | **VS Code** |
 
 ---
 
 ### **Libraries & Technologies**
-- ![OkHttp](https://img.icons8.com/fluency/50/000000/okhttp.png) **OkHttp**
-- ![RESTful API](https://img.icons8.com/fluency/50/000000/api.png) **RESTful API**
-- ![ZXing](https://img.icons8.com/fluency/50/000000/barcode.png) **ZXing**
-- ![Material Design](https://img.icons8.com/fluency/50/000000/material.png) **Material Design**
-- ![MVVM](https://img.icons8.com/fluency/50/000000/architecture.png) **MVVM**
-- ![BLoC](https://img.icons8.com/fluency/50/000000/blocks.png) **BLoC**
+| ![OkHttp](https://img.icons8.com/fluency/50/000000/okhttp.png) | ![RESTful API](https://img.icons8.com/fluency/50/000000/api.png) | ![ZXing](https://img.icons8.com/fluency/50/000000/barcode.png) |
+| --- | --- | --- |
+| **OkHttp** | **RESTful API** | **ZXing** |
+
+| ![Material Design](https://img.icons8.com/fluency/50/000000/material.png) | ![MVVM](https://img.icons8.com/fluency/50/000000/architecture.png) | ![BLoC](https://img.icons8.com/fluency/50/000000/blocks.png) |
+| --- | --- | --- |
+| **Material Design** | **MVVM** | **BLoC** |
 
 ---
 
 ### **Development Methodologies**
-- ![Agile](https://img.icons8.com/fluency/50/000000/trello.png) **Agile**
-- ![Scrum](https://img.icons8.com/fluency/50/000000/scrum.png) **Scrum**
-- ![TDD](https://img.icons8.com/fluency/50/000000/jest.png) **TDD**
+| ![Agile](https://img.icons8.com/fluency/50/000000/trello.png) | ![Scrum](https://img.icons8.com/fluency/50/000000/scrum.png) | ![TDD](https://img.icons8.com/fluency/50/000000/jest.png) |
+| --- | --- | --- |
+| **Agile** | **Scrum** | **TDD** |
 
 ---
 
 ### **Database Management**
-- ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) **SQL**
-- ![Firebase Firestore](https://img.icons8.com/fluency/50/000000/firebase.png) **Firebase Firestore**
+| ![SQL](https://img.icons8.com/fluency/50/000000/sql.png) | ![Firebase Firestore](https://img.icons8.com/fluency/50/000000/firebase.png) |
+| --- | --- |
+| **SQL** | **Firebase Firestore** |
+
 
 
 
