@@ -88,7 +88,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white" style="width: 50px; height: auto;" /></td>
+    <td><img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white" style="width: 75px; height: auto;" /></td>
     <td><img src="https://img.shields.io/badge/MVVM-FF5722?style=for-the-badge&logo=java&logoColor=white" width="50" height="50" /></td>
     <td><img src="https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white" width="50" height="50" /></td>
   </tr>
@@ -119,7 +119,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width: 50px; height: auto;" /></td>
-    <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" style="width: 50px; height: auto;" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" style="width: 75px; height: auto;" /></td>
   </tr>
   <tr>
     <td>SQL</td>
