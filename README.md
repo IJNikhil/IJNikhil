@@ -5,13 +5,6 @@
 
 ---
 
-## 📜 About Me
-Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Strong experience in delivering high-performance solutions for mobile applications. Passionate about working in **Agile** environments and continuously learning cutting-edge technologies to tackle complex challenges.
-
-> **"Engineering solutions that create seamless user experiences."**
-
----
-
 ## 🛠️ **Technical Skills**
 
 ### **Programming Languages**
@@ -61,16 +54,18 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 🧑‍💻 **Education**
 - **B.Tech in Computer Engineering**  
   *AGPIT Solapur, Maharashtra* | November 2022 – May 2025  
-  
+  **CGPA**: 6.5/10 (Final Year)
+
 - **Diploma in Computer Engineering**  
   *SPM Solapur, Maharashtra* | August 2019 – July 2022  
+  **Percentage**: 84.97%
 
 ---
 
 ## 📂 **Projects**
 - **AGPIT Guide – Campus Navigation App**  
   Developed a real-time campus navigation app that helps users find optimized routes with a 3D interactive map.
-  
+
 - [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
   AI-powered chatbot that delivers real-time conversational experiences for seamless user interactions.
 
@@ -94,19 +89,10 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_iit-roorkee-e-summit-productathonai-activity-7003351672940711936-8muG)**, IIT Roorkee E-Summit 2024 ProductathonAI Hackathon  
   *IIT Roorkee Campus* – Created a Machine Learning-based software for price prediction in market forecasting.
 
-- **[Participant](https://www.linkedin.com/posts/nikhileshwar-adam_android-development-competition-wit-solapur-activity-7002010736349878272-rcAm)**, Android Development Competition, WIT Solapur  
-  *Developed a functional Android app as part of a team under time constraints.*
+- **[Participant](https://www.linkedin.com/posts/nikhileshwar-adam_android-development-competition-wit-solutions-activity-7004104518662228992-FVqs)**, Wit Solutions Android Development Hackathon
 
-- **4th Place**, Product Management Championship by BookMyMentor  
-  *Secured 4th place and earned Live Project Certificate.*
+- **[Google Cloud](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)**  
+  Acquired foundational skills in Google Cloud through Cloud Skills Boost programs.
 
----
-
-## 🔗 **Contact Me**
-- **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
-
----
-
-## 📄 **License**
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
+- **[IBM Data Science](https://www.coursera.org/account/accomplishments/certificate/8GAK6MDY8G3R)**  
+  Completed IBM's Data Science Professional Certificate on Coursera.
