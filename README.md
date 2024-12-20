@@ -15,76 +15,46 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 🛠️ **Technical Skills**
 
 ### **Programming Languages**
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; align-items: center;">
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/java.png" alt="Java" style="width: 80px; height: 80px;" />
-    <p><strong>Java</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" style="width: 80px; height: 80px;" />
-    <p><strong>Python</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/dart.png" alt="Dart" style="width: 80px; height: 80px;" />
-    <p><strong>Dart</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" style="width: 80px; height: 80px;" />
-    <p><strong>SQL</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/c-plus-plus.png" alt="C++" style="width: 80px; height: 80px;" />
-    <p><strong>C++</strong></p>
-  </div>
-
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" style="width: 80px; height: 80px;" />
-    <p><strong>JavaScript</strong></p>
-  </div>
-
-</div>
+- ![Java](https://img.icons8.com/ios/50/000000/java.png) **Java**
+- ![Python](https://img.icons8.com/ios/50/000000/python.png) **Python**
+- ![Dart](https://img.icons8.com/ios/50/000000/dart.png) **Dart**
+- ![SQL](https://img.icons8.com/ios/50/000000/sql.png) **SQL**
+- ![C++](https://img.icons8.com/ios/50/000000/c-plus-plus.png) **C++**
+- ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) **JavaScript**
 
 ---
 
 ### **Frameworks & Tools**
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; align-items: center;">
+- ![Android](https://img.icons8.com/ios/50/000000/android.png) **Android**
+- ![Firebase](https://img.icons8.com/ios/50/000000/firebase.png) **Firebase**
+- ![Unity](https://img.icons8.com/ios/50/000000/unity.png) **Unity**
+- ![Git](https://img.icons8.com/ios/50/000000/git.png) **Git**
+- ![GitHub](https://img.icons8.com/ios/50/000000/github.png) **GitHub**
+- ![VS Code](https://img.icons8.com/ios/50/000000/visual-studio-code.png) **VS Code**
 
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/android.png" alt="Android" style="width: 80px; height: 80px;" />
-    <p><strong>Android</strong></p>
-  </div>
+---
 
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/firebase.png" alt="Firebase" style="width: 80px; height: 80px;" />
-    <p><strong>Firebase</strong></p>
-  </div>
+### **Libraries & Technologies**
+- ![OkHttp](https://img.icons8.com/ios/50/000000/okhttp.png) **OkHttp**
+- ![RESTful API](https://img.icons8.com/ios/50/000000/api.png) **RESTful API**
+- ![ZXing](https://img.icons8.com/ios/50/000000/barcode.png) **ZXing**
+- ![Material Design](https://img.icons8.com/ios/50/000000/material.png) **Material Design**
+- ![MVVM](https://img.icons8.com/ios/50/000000/architecture.png) **MVVM**
+- ![BLoC](https://img.icons8.com/ios/50/000000/blocks.png) **BLoC**
 
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" style="width: 80px; height: 80px;" />
-    <p><strong>Unity</strong></p>
-  </div>
+---
 
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" style="width: 80px; height: 80px;" />
-    <p><strong>Git</strong></p>
-  </div>
+### **Development Methodologies**
+- ![Agile](https://img.icons8.com/ios/50/000000/trello.png) **Agile**
+- ![Scrum](https://img.icons8.com/ios/50/000000/scrum.png) **Scrum**
+- ![TDD](https://img.icons8.com/ios/50/000000/jest.png) **TDD**
 
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" style="width: 80px; height: 80px;" />
-    <p><strong>GitHub</strong></p>
-  </div>
+---
 
-  <div style="flex: 1 1 150px; text-align: center; padding: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/visual-studio-code.png" alt="VS Code" style="width: 80px; height: 80px;" />
-    <p><strong>VS Code</strong></p>
-  </div>
+### **Database Management**
+- ![SQL](https://img.icons8.com/ios/50/000000/sql.png) **SQL**
+- ![Firebase Firestore](https://img.icons8.com/ios/50/000000/firebase.png) **Firebase Firestore**
 
-</div>
 
 ---
 
