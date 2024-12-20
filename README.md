@@ -1,21 +1,22 @@
 # Nikhileshwar Adam - Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhileshwar%20Adam-blue)](https://www.linkedin.com/in/nikhileshwar-adam/)  
-[Google Cloud Skills](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
+[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud%20Skills-79a13a9b-FF4C00)](https://www.cloudskillsboost.google/public_profiles/79a13a9b-031c-4e9e-bc2b-93ec856a3b3f)
 
 ---
 
-## 📜 About Me
-Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Strong experience in delivering high-performance solutions for mobile applications. Passionate about working in **Agile** environments and continuously learning cutting-edge technologies to tackle complex challenges.
+## 🧑‍💻 About Me
 
-> **"Engineering solutions that create seamless user experiences."**
+Passionate **Software Engineer** with expertise in mobile app development, backend solutions, and agile methodologies. Skilled in **Java**, **Python**, and **Dart**, I focus on crafting intuitive user interfaces and efficient backend systems. Committed to continuous learning, I aim to build solutions that make a difference.
+
+> *"Creating solutions that elevate user experiences through innovation and efficiency."*
 
 ---
 
 ## 🛠️ **Technical Skills**
 
-### **Programming Languages**
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
+### Programming Languages
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px;">
   <div style="text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
     <p><strong>Java</strong></p>
@@ -49,8 +50,8 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 
 ---
 
-### **Frameworks & Tools**
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
+### Frameworks & Tools
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px;">
   <div style="text-align: center;">
     <img src="https://img.icons8.com/ios/50/000000/android.png" alt="Android" />
     <p><strong>Android</strong></p>
@@ -85,34 +86,9 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ### **Libraries & Technologies**
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px;">
   <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/50/000000/trello.png" alt="Agile" />
-    <p><strong>Agile</strong></p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/ios/50/000000/scrum.png" alt="Scrum" />
-    <p><strong>Scrum</strong></p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-test-driven-development-tdd-flat-flat-juicy-fish.png" alt="TDD" />
-    <p><strong>TDD</strong></p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-ok-http-api-flat-flat-juicy-fish.png" alt="OkHttp" />
-    <p><strong>OkHttp</strong></p>
-  </div>
-</div>
-
----
-
-### **Development Methodologies**
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;">
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-material-design-flat-flat-juicy-fish.png" alt="Material Design" />
+    <img src="https://img.icons8.com/ios/50/000000/material-ui.png" alt="Material UI" />
     <p><strong>Material Design</strong></p>
   </div>
 
@@ -125,11 +101,37 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
     <img src="https://img.icons8.com/color/50/000000/bloc.png" alt="BLoC" />
     <p><strong>BLoC</strong></p>
   </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-ok-http-api-flat-flat-juicy-fish.png" alt="OkHttp" />
+    <p><strong>OkHttp</strong></p>
+  </div>
 </div>
 
 ---
 
-## 🧑‍💻 **Education**
+### **Development Methodologies**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-agile-flat-flat-juicy-fish.png" alt="Agile" />
+    <p><strong>Agile</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/ios/50/000000/scrum.png" alt="Scrum" />
+    <p><strong>Scrum</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-tdd-test-driven-development-flat-flat-juicy-fish.png" alt="TDD" />
+    <p><strong>TDD</strong></p>
+  </div>
+</div>
+
+---
+
+## 🏆 **Education**
+
 - **B.Tech in Computer Engineering**  
   *AGPIT Solapur, Maharashtra* | November 2022 – May 2025  
   **CGPA**: 6.5/10 (Final Year)
@@ -141,16 +143,17 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ## 📂 **Projects**
+
 - **AGPIT Guide – Campus Navigation App**  
   Developed a real-time campus navigation app that helps users find optimized routes with a 3D interactive map.
-  
-- [**ChatBotX – AI Chatbot**](https://github.com/IJNikhil/fluttergemini)  
+
+- **ChatBotX – AI Chatbot**  
   AI-powered chatbot that delivers real-time conversational experiences for seamless user interactions.
 
-- [**ETESA – Real-Time Attendance Tracking**](https://github.com/IJNikhil/ETESA)  
+- **ETESA – Real-Time Attendance Tracking**  
   Mobile app that tracks real-time attendance and allows secure data storage in Firebase.
 
-- [**Loop – Real-Time Messaging App**](https://github.com/IJNikhil/Loop)  
+- **Loop – Real-Time Messaging App**  
   Messaging platform that synchronizes chat data instantly with Firebase for real-time communication.
 
 > **For more details and code, check my repositories on [GitHub](https://github.com/IJNikhil).**
@@ -158,21 +161,23 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ---
 
 ## 🏆 **Achievements & Certifications**
-- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**, StrataZeal 1.0 Case Competition  
+
+- **Finalist**, *StrataZeal 1.0 Case Competition*  
   *Symbiosis Centre for Management and HRD, Pune* – Recognized for innovative business solutions using Power BI.
 
-- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_a1-launchpad-national-challenge-activity-7002539516851733504-WY2Y)**, A-1 Launchpad National Challenge  
+- **Finalist**, *A-1 Launchpad National Challenge*  
   *A-1 Fence Products Company Pvt. Ltd.* – Developed a hardware-software product addressing real-world business challenges.
 
-- **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_iit-roorkee-e-summit-productathonai-activity-7003351672940711936-8muG)**, IIT Roorkee E-Summit 2024 ProductathonAI Hackathon  
+- **Finalist**, *IIT Roorkee E-Summit 2024 ProductathonAI Hackathon*  
   *IIT Roorkee Campus* – Created a Machine Learning-based software for price prediction in market forecasting.
 
-- **[Participant](https://www.linkedin.com/posts/nikhileshwar-adam_hackathon-data-analysis-openai-activity-7002152177535950848-NV4v)**, MLH Hackathon (OpenAI Data Analysis)  
+- **Participant**, *MLH Hackathon (OpenAI Data Analysis)*  
   *Major League Hacking* – Data analysis with OpenAI models to improve customer experience using Python.
 
 ---
 
 ## 🔗 **Contact Me**
+
 - **LinkedIn**: [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
 - **GitHub**: [IJNikhil](https://github.com/IJNikhil)
 - **Email**: nikhileshwaradam@gmail.com
