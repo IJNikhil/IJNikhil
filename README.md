@@ -15,53 +15,117 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 🛠️ **Technical Skills**
 
 ### **Programming Languages**
-| ![Java](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png =50x50) | ![Python](https://img.icons8.com/fluency/50/000000/python.png =50x50) | ![Dart](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png =50x50) |
-| --- | --- | --- |
-| **Java** | **Python** | **Dart** |
+<table>
+  <tr>
+    <td><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50" height="50" /></td>
+    <td><img src="https://img.icons8.com/fluency/50/000000/python.png" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**Java**</td>
+    <td>**Python**</td>
+    <td>**Dart**</td>
+  </tr>
+</table>
 
-| ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png =50x50) | ![C++](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png =50x50) | ![JavaScript](https://img.icons8.com/fluency/50/000000/javascript.png =50x50) |
-| --- | --- | --- |
-| **SQL** | **C++** | **JavaScript** |
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" /></td>
+    <td><img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" width="50" height="50" /></td>
+    <td><img src="https://img.icons8.com/fluency/50/000000/javascript.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**SQL**</td>
+    <td>**C++**</td>
+    <td>**JavaScript**</td>
+  </tr>
+</table>
 
 ---
 
 ### **Frameworks & Tools**
-| ![Android](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX98TKIsaJF7D4wnq7YBOuMjtYH-6D5Kgm7m7VbRek7cQIGN7TNVtJMDIbSiEG5KgcGyGpgGxEOz7u9v-WhQASrQrjvCQF8-RQ7PsZpA6djqK7RA7mXrnt6aYiac8voLef_mhP-s_TucPVEP1vvmUBjspmjA2RdrbvIqVwYXQJZ1fwPyamJIxXTrgMVmg/s1600/image1.png =50x50) | ![Firebase](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s =50x50) | ![Unity](https://img.icons8.com/fluency/50/000000/unity.png =50x50) |
-| --- | --- | --- |
-| **Android** | **Firebase** | **Unity** |
+<table>
+  <tr>
+    <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX98TKIsaJF7D4wnq7YBOuMjtYH-6D5Kgm7m7VbRek7cQIGN7TNVtJMDIbSiEG5KgcGyGpgGxEOz7u9v-WhQASrQrjvCQF8-RQ7PsZpA6djqK7RA7mXrnt6aYiac8voLef_mhP-s_TucPVEP1vvmUBjspmjA2RdrbvIqVwYXQJZ1fwPyamJIxXTrgMVmg/s1600/image1.png" width="50" height="50" /></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" width="50" height="50" /></td>
+    <td><img src="https://img.icons8.com/fluency/50/000000/unity.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**Android**</td>
+    <td>**Firebase**</td>
+    <td>**Unity**</td>
+  </tr>
+</table>
 
-| ![Git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp2RKrzqJF2Cu3dxnk2RGK_F7SSloJG-Wyw&s =50x50) | ![GitHub](https://img.icons8.com/fluency/50/000000/github.png =50x50) | ![VS Code](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9E5HZlsBUfIyQdZy53DBNd5c9aIxECWdFww&s =50x50) |
-| --- | --- | --- |
-| **Git** | **GitHub** | **VS Code** |
+<table>
+  <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp2RKrzqJF2Cu3dxnk2RGK_F7SSloJG-Wyw&s" width="50" height="50" /></td>
+    <td><img src="https://img.icons8.com/fluency/50/000000/github.png" width="50" height="50" /></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9E5HZlsBUfIyQdZy53DBNd5c9aIxECWdFww&s" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**Git**</td>
+    <td>**GitHub**</td>
+    <td>**VS Code**</td>
+  </tr>
+</table>
 
 ---
 
 ### **Libraries & Technologies**
-| ![OkHttp](https://img.shields.io/badge/OkHttp-4D4D4D?style=for-the-badge&logo=okhttp&logoColor=white =50x50) | ![RESTful API](https://img.icons8.com/fluency/50/000000/api.png =50x50) | ![ZXing](https://img.icons8.com/fluency/50/000000/barcode.png =50x50) |
-| --- | --- | --- |
-| **OkHttp** | **RESTful API** | **ZXing** |
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/OkHttp-4D4D4D?style=for-the-badge&logo=okhttp&logoColor=white" width="50" height="50" /></td>
+    <td><img src="https://img.icons8.com/fluency/50/000000/api.png" width="50" height="50" /></td>
+    <td><img src="https://img.icons8.com/fluency/50/000000/barcode.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**OkHttp**</td>
+    <td>**RESTful API**</td>
+    <td>**ZXing**</td>
+  </tr>
+</table>
 
-| ![Material Design](https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white =50x50) | ![MVVM](https://img.shields.io/badge/MVVM-FF5722?style=for-the-badge&logo=java&logoColor=white =50x50) | ![BLoC](https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white =50x50) |
-| --- | --- | --- |
-| **Material 3 Design** | **MVVM** | **BLoC** |
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white" width="50" height="50" /></td>
+    <td><img src="https://img.shields.io/badge/MVVM-FF5722?style=for-the-badge&logo=java&logoColor=white" width="50" height="50" /></td>
+    <td><img src="https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**Material 3 Design**</td>
+    <td>**MVVM**</td>
+    <td>**BLoC**</td>
+  </tr>
+</table>
 
 ---
 
 ### **Development Methodologies**
-| ![Agile](https://e7.pngegg.com/pngimages/446/260/png-clipart-agile-software-development-software-development-process-waterfall-model-systems-development-life-cycle-others-text-logo.png =50x50) | ![TDD](https://www.perfecto.io/sites/default/files/styles/social_preview_image/public/image/2022-08/image-blog-test-driven-data.jpg?itok=smKqN5Dl =50x50) |
-| --- | --- |
-| **Agile** | **TDD** |
+<table>
+  <tr>
+    <td><img src="https://e7.pngegg.com/pngimages/446/260/png-clipart-agile-software-development-software-development-process-waterfall-model-systems-development-life-cycle-others-text-logo.png" width="50" height="50" /></td>
+    <td><img src="https://www.perfecto.io/sites/default/files/styles/social_preview_image/public/image/2022-08/image-blog-test-driven-data.jpg?itok=smKqN5Dl" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**Agile**</td>
+    <td>**TDD**</td>
+  </tr>
+</table>
 
 ---
 
 ### **Database Management**
-| ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png =50x50) | ![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white =50x50) |
-| --- | --- |
-| **SQL** | **Firebase Firestore** |
-
-
-
-
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td>**SQL**</td>
+    <td>**Firebase Firestore**</td>
+  </tr>
+</table>
 ---
 
 ### **Contact**  
