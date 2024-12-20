@@ -15,54 +15,43 @@ Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, a
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
-
-| ![Java](https://img.icons8.com/color/48/000000/java.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Dart](https://img.icons8.com/color/48/000000/dart.png) | ![SQL](https://img.icons8.com/color/48/000000/sql.png) |
-| -------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
-| **Java**                                                 | **Python**                                                | **Dart**                                               | **SQL**                                                 |
-
-| ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![C#](https://img.icons8.com/color/48/000000/c-sharp.png) |
-| ---------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- |
-| **C**                                                     | **C++**                                                    | **JavaScript**                                         | **C#**                                                  |
+![Java](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-java-programming-language-logo-flat-flat-juicy-fish.png)  
+**Java**, **Python**, **Dart**, **SQL**, **C**, **C++**, **JavaScript**, **C#**
 
 ---
 
 ### **Frameworks & Tools**
-
-| ![Android](https://img.icons8.com/color/48/000000/android.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| **Android SDK**                                             | **Firebase**                                                | **Unity 3D**                                          | **Git**                                                 |
-
-| ![GitHub](https://img.icons8.com/color/48/000000/github.png) | ![Linux](https://img.icons8.com/color/48/000000/linux.png) | ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) |
-| --------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| **GitHub**                                                | **Linux**                                                 | **Windows**                                              |
+- ![Android](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-android-logo-flat-flat-juicy-fish.png) **Android SDK**
+- ![Firebase](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-firebase-cloud-platform-logo-flat-flat-juicy-fish.png) **Firebase**
+- ![Unity](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-unity-logo-flat-flat-juicy-fish.png) **Unity 3D**
+- ![Git](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-git-logo-flat-flat-juicy-fish.png) **Git**
+- ![GitHub](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-github-logo-flat-flat-juicy-fish.png) **GitHub**
+- ![Linux](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-linux-logo-flat-flat-juicy-fish.png) **Linux**
+- ![Windows](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-windows-10-logo-flat-flat-juicy-fish.png) **Windows**
 
 ---
 
 ### **Libraries & Technologies**
-
-| ![OkHttp](https://img.icons8.com/color/48/000000/ok.png) | ![API](https://img.icons8.com/color/48/000000/api.png) | ![ZXing](https://img.icons8.com/color/48/000000/barcode.png) | ![Material Design](https://img.icons8.com/color/48/000000/material-design.png) |
-| ------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| **OkHttp**                                              | **RESTful API**                                         | **ZXing**                                                | **Material Design**                                           |
-
-| ![MVVM](https://img.icons8.com/color/48/000000/mvvm.png) | ![BLoC](https://img.icons8.com/color/48/000000/flow.png) |
-| ------------------------------------------------------ | ----------------------------------------------------- |
-| **MVVM**                                                | **BLoC**                                                 |
+- ![OkHttp](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-ok-http-logo-flat-flat-juicy-fish.png) **OkHttp**
+- ![API](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-api-logo-flat-flat-juicy-fish.png) **RESTful API**
+- ![ZXing](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-zxing-logo-flat-flat-juicy-fish.png) **ZXing**
+- ![Material Design](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-material-design-logo-flat-flat-juicy-fish.png) **Material Design**
+- ![MVVM](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-mvvm-logo-flat-flat-juicy-fish.png) **MVVM**
+- ![BLoC](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-flutter-logo-flat-flat-juicy-fish.png) **BLoC**
 
 ---
 
 ### **Development Methodologies**
-
-| ![Agile](https://img.icons8.com/color/48/000000/agile.png) | ![Scrum](https://img.icons8.com/color/48/000000/scrum.png) | ![TDD](https://img.icons8.com/color/48/000000/test-passed.png) | ![SDLC](https://img.icons8.com/color/48/000000/sd-card.png) |
-| -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------ |
-| **Agile**                                                | **Scrum**                                                | **Test-Driven Development (TDD)**                        | **SDLC**                                                 |
+- ![Agile](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-agile-logo-flat-flat-juicy-fish.png) **Agile**
+- ![Scrum](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-scrum-logo-flat-flat-juicy-fish.png) **Scrum**
+- ![TDD](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-test-passed-logo-flat-flat-juicy-fish.png) **Test-Driven Development (TDD)**
+- ![SDLC](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-sd-card-logo-flat-flat-juicy-fish.png) **SDLC**
 
 ---
 
 ### **Database Management**
-
-| ![SQL Database](https://img.icons8.com/color/48/000000/database.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) |
-| ------------------------------------------------------------------ | -------------------------------------------------------------- |
-| **SQL**                                                            | **Firebase Firestore**                                         |
+- ![SQL Database](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-database-logo-flat-flat-juicy-fish.png) **SQL**
+- ![Firebase](https://img.icons8.com/external-flat-juicy-fish/64/000000/external-firebase-logo-flat-flat-juicy-fish.png) **Firebase Firestore**
 
 ---
 
