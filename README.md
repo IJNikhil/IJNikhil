@@ -15,7 +15,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-<table>
+<table style="text-align: center;">
   <tr>
     <td><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50" height="50" /></td>
     <td><img src="https://img.icons8.com/fluency/50/000000/python.png" width="50" height="50" /></td>
@@ -28,7 +28,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
   </tr>
 </table>
 
-<table>
+<table style="text-align: center;">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width: 50px; height: auto;" /></td>
     <td><img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" width="50" height="50" /></td>
@@ -44,7 +44,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 ---
 
 ### Frameworks & Tools
-<table>
+<table style="text-align: center;">
   <tr>
     <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX98TKIsaJF7D4wnq7YBOuMjtYH-6D5Kgm7m7VbRek7cQIGN7TNVtJMDIbSiEG5KgcGyGpgGxEOz7u9v-WhQASrQrjvCQF8-RQ7PsZpA6djqK7RA7mXrnt6aYiac8voLef_mhP-s_TucPVEP1vvmUBjspmjA2RdrbvIqVwYXQJZ1fwPyamJIxXTrgMVmg/s1600/image1.png" width="50" height="50" /></td>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" width="50" height="50" /></td>
@@ -57,7 +57,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
   </tr>
 </table>
 
-<table>
+<table style="text-align: center;">
   <tr>
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp2RKrzqJF2Cu3dxnk2RGK_F7SSloJG-Wyw&s" width="50" height="50" /></td>
     <td><img src="https://img.icons8.com/fluency/50/000000/github.png" width="50" height="50" /></td>
@@ -73,7 +73,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 ---
 
 ### Libraries & Technologies
-<table>
+<table style="text-align: center;">
   <tr>
     <td><img src="https://img.shields.io/badge/OkHttp-4D4D4D?style=for-the-badge&logo=okhttp&logoColor=white" width="50" height="50" /></td>
     <td><img src="https://img.icons8.com/fluency/50/000000/api.png" width="50" height="50" /></td>
@@ -86,9 +86,9 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
   </tr>
 </table>
 
-<table>
+<table style="text-align: center;">
   <tr>
-    <td><img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white" style="width: 75px; height: auto;" /></td>
+    <td><img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=material-design&logoColor=white" style="width: 100px; height: auto;" /></td>
     <td><img src="https://img.shields.io/badge/MVVM-FF5722?style=for-the-badge&logo=java&logoColor=white" width="50" height="50" /></td>
     <td><img src="https://img.shields.io/badge/BLoC-0288D1?style=for-the-badge&logo=flutter&logoColor=white" width="50" height="50" /></td>
   </tr>
@@ -102,7 +102,7 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 ---
 
 ### Development Methodologies
-<table>
+<table style="text-align: center;">
   <tr>
     <td><img src="https://e7.pngegg.com/pngimages/446/260/png-clipart-agile-software-development-software-development-process-waterfall-model-systems-development-life-cycle-others-text-logo.png" width="50" height="50" /></td>
     <td><img src="https://www.perfecto.io/sites/default/files/styles/social_preview_image/public/image/2022-08/image-blog-test-driven-data.jpg?itok=smKqN5Dl" width="50" height="50" /></td>
@@ -116,10 +116,10 @@ Driven Software Engineer with expertise in Java, Python, Dart, and SQL. Skilled 
 ---
 
 ### Database Management
-<table>
+<table style="text-align: center;">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="width: 50px; height: auto;" /></td>
-    <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" style="width: 75px; height: auto;" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase_Firestore-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td>SQL</td>
