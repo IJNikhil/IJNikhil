@@ -6,8 +6,7 @@
 ---
 
 ## 📜 About Me
-Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. I focus on creating high-performance solutions for mobile applications and enjoy collaborating in **Agile environments** to build innovative products.  
-Passionate about continuous learning, I strive to engineer **seamless user experiences** and take on complex challenges using emerging technologies.
+Driven **Software Engineer** with expertise in **Java**, **Python**, **Dart**, and **SQL**. Skilled in **Android development**, **Firebase integration**, and **backend optimizations**. Passionate about **mobile applications**, **Agile environments**, and **continuous learning**.
 
 > **"Engineering solutions that create seamless user experiences."**
 
@@ -16,53 +15,59 @@ Passionate about continuous learning, I strive to engineer **seamless user exper
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
-<div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/java.png" width="40" alt="Java"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/python.png" width="40" alt="Python"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/dart.png" width="40" alt="Dart"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" alt="SQL"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" width="40" alt="C"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus.png" width="40" alt="C++"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" width="40" alt="JavaScript"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp.png" width="40" alt="C#"/>
-</div>
+
+| ![Java](https://img.icons8.com/color/48/000000/java.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Dart](https://img.icons8.com/color/48/000000/dart.png) | ![SQL](https://img.icons8.com/color/48/000000/sql.png) |
+| -------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
+| **Java**                                                 | **Python**                                                | **Dart**                                               | **SQL**                                                 |
+
+| ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![C#](https://img.icons8.com/color/48/000000/c-sharp.png) |
+| ---------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- |
+| **C**                                                     | **C++**                                                    | **JavaScript**                                         | **C#**                                                  |
+
+---
 
 ### **Frameworks & Tools**
-<div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/android.png" width="40" alt="Android"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" width="40" alt="Firebase"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" width="40" alt="Unity"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/git.png" width="40" alt="Git"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" width="40" alt="Linux"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/windows-10.png" width="40" alt="Windows"/>
-</div>
+
+| ![Android](https://img.icons8.com/color/48/000000/android.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) |
+| ------------------------------------------------------------ | ----------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| **Android SDK**                                             | **Firebase**                                                | **Unity 3D**                                          | **Git**                                                 |
+
+| ![GitHub](https://img.icons8.com/color/48/000000/github.png) | ![Linux](https://img.icons8.com/color/48/000000/linux.png) | ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) |
+| --------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
+| **GitHub**                                                | **Linux**                                                 | **Windows**                                              |
+
+---
 
 ### **Libraries & Technologies**
-<div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/ok.png" width="40" alt="OkHttp"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" width="40" alt="RESTful API"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/barcode.png" width="40" alt="ZXing"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/material-design.png" width="40" alt="Material Design"/>
-</div>
+
+| ![OkHttp](https://img.icons8.com/color/48/000000/ok.png) | ![API](https://img.icons8.com/color/48/000000/api.png) | ![ZXing](https://img.icons8.com/color/48/000000/barcode.png) | ![Material Design](https://img.icons8.com/color/48/000000/material-design.png) |
+| ------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| **OkHttp**                                              | **RESTful API**                                         | **ZXing**                                                | **Material Design**                                           |
+
+| ![MVVM](https://img.icons8.com/color/48/000000/mvvm.png) | ![BLoC](https://img.icons8.com/color/48/000000/flow.png) |
+| ------------------------------------------------------ | ----------------------------------------------------- |
+| **MVVM**                                                | **BLoC**                                                 |
+
+---
 
 ### **Development Methodologies**
-<div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/agile.png" width="40" alt="Agile"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/scrum.png" width="40" alt="Scrum"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/test-passed.png" width="40" alt="TDD"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/sd-card.png" width="40" alt="SDLC"/>
-</div>
+
+| ![Agile](https://img.icons8.com/color/48/000000/agile.png) | ![Scrum](https://img.icons8.com/color/48/000000/scrum.png) | ![TDD](https://img.icons8.com/color/48/000000/test-passed.png) | ![SDLC](https://img.icons8.com/color/48/000000/sd-card.png) |
+| -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------ |
+| **Agile**                                                | **Scrum**                                                | **Test-Driven Development (TDD)**                        | **SDLC**                                                 |
+
+---
 
 ### **Database Management**
-<div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" alt="SQL Database"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" width="40" alt="Firebase Firestore"/>
-</div>
+
+| ![SQL Database](https://img.icons8.com/color/48/000000/database.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) |
+| ------------------------------------------------------------------ | -------------------------------------------------------------- |
+| **SQL**                                                            | **Firebase Firestore**                                         |
 
 ---
 
 ## 🧑‍💻 Education
+
 - **B.Tech in Computer Engineering**  
   *AGPIT Solapur, Maharashtra* | November 2022 – May 2025  
   **CGPA**: 6.5/10 (Final Year)
@@ -74,6 +79,7 @@ Passionate about continuous learning, I strive to engineer **seamless user exper
 ---
 
 ## 📂 Projects
+
 - **AGPIT Guide – Campus Navigation App**  
   Developed a real-time campus navigation app that helps users find optimized routes with a 3D interactive map.
 
@@ -91,6 +97,7 @@ Passionate about continuous learning, I strive to engineer **seamless user exper
 ---
 
 ## 🏆 Achievements & Certifications
+
 - **[Finalist](https://www.linkedin.com/posts/nikhileshwar-adam_stratazeal-competition-powerbi-activity-7002153192764289024-FJzJ)**, StrataZeal 1.0 Case Competition  
   *Symbiosis Centre for Management and HRD, Pune* – Recognized for innovative business solutions using Power BI.
 
