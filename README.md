@@ -3,7 +3,7 @@
    <span style="color: #1976D2;">Dart</span>, 
    <span style="color: #FF5722;">SQL</span>, 
    <span style="color: #FFC107;">Firebase</span> & 
-   <span style="color: #3F51B5;">Cloud Solutions Expert</span>
+
 
 <p style="font-size: 18px; font-weight: bold;">
    <a href="https://www.linkedin.com/in/nikhileshwar-adam/" target="_blank">
