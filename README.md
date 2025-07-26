@@ -139,5 +139,5 @@ Telugu • Marathi • Hindi • English
 ## 📫 Let's Connect!
 Always open to discussing new opportunities, innovative projects, and collaborations. Feel free to reach out for software development, mobile app development, or any exciting tech ventures!
 
-**Email:** [Your Email]  
+**Email:** nikhileshwar41@gmail.com
 **LinkedIn:** [Nikhileshwar Adam](https://www.linkedin.com/in/nikhileshwar-adam/)
