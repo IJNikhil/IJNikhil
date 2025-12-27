@@ -74,10 +74,17 @@ I am a final-year **Computer Engineering student** passionate about building sca
 
 ---
 
-## 📊 GitHub Insights
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IJNikhil&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Nikhil's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJNikhil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IJNikhil&show_icons=true&theme=radical&hide_border=true" alt="Nikhileshwar's GitHub Stats" width="480px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJNikhil&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="350px" />
+</p>
+
+<br clear="both" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IJNikhil&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
