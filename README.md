@@ -74,18 +74,8 @@ I am a final-year **Computer Engineering student** passionate about building sca
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IJNikhil&show_icons=true&theme=radical&hide_border=true" alt="Nikhileshwar's GitHub Stats" width="480px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJNikhil&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="350px" />
-</p>
-
-<br clear="both" />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IJNikhil&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Activity
+![Metrics](https://metrics.lecoq.io/IJNikhil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata)
 
 ---
 
