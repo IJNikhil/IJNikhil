@@ -10,7 +10,7 @@
 ## 🚀 About Me
 I am a final-year **Computer Engineering student** passionate about building scalable, user-centric applications. With a strong foundation in **Java**, **Python**, and **React Native**, I specialize in bridging the gap between complex backend logic and intuitive mobile/web interfaces.
 
-- 🎓 **Education:** B.Tech in Computer Engineering (Graduating Aug 2025)
+- 🎓 **Education:** B.Tech in Computer Engineering (Graduated in Aug 2025)
 - 💼 **Experience:** Software Development Intern @ Capgemini Digital Academy
 - 🎯 **Focus:** Mobile Development (React Native/Android), Full-stack Web (Django/React), & AI Integration
 - 🌱 **Learning:** Advanced Cloud Architecture and Microservices
@@ -68,7 +68,7 @@ I am a final-year **Computer Engineering student** passionate about building sca
 
 ## 🎓 Education & Certifications
 
-* **B.Tech in Computer Engineering** | *AGPIT Solapur* (2022 – 2025)
+* **B.Tech in Computer Engineering** | *AGPIT Solapur* (2022 – 2025) | **CGPA: 7/10**
 * **Diploma in Computer Engineering** | *SPM Polytechnic* (2019 – 2022) | **84.97%**
 * **Languages:** English, Telugu, Marathi, Hindi.
 
